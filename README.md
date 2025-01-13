@@ -23,6 +23,7 @@ As of 2025 this desktop software is the "flagship instrument". Check the Kicksta
 This is desktop software that 
 - [Video Synthesis Ecosphere Desktop](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP)
 - [Video Synthesis Ecosphere Desktop - Legacy](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
+- [Video Synthesis Ecosphere Desktop - Getting Started](https://andreijaycreativecoding.com/VIDEO-WAAAVES-GETTING-STARTED)
 - [GitHub - VIDEO_WAAAVES](https://github.com/ex-zee-ex/video_waaaves)
 - [GitHub - VIDEO_WAAAVES_2.7](https://github.com/ex-zee-ex/VIDEO_WAAAVES_2.718)
 - [GitHub - VIDEO_WAAAVES_2.5_SUITE](https://github.com/ex-zee-ex/VIDEO_WAAAVES_2.5_suite)
