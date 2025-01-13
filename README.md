@@ -11,14 +11,16 @@ Notes on Waave_Pool, Gravity_Waaaves, Video Synthesis Ecosphere for Raspberry Pi
   - [Patreon - c/andrei-jay](https://www.patreon.com/c/andrei-jay)
   - [TikTok - @andrei_jay](https://www.tiktok.com/@andrei_jay)
   - [YouTube - @andreijay](https://www.youtube.com/@andreijay)
-
+ 
+Additional documentation for many of these video instruments are on Andrei Jay's Youtube.  
 
 ## GRAVITY_WAAAAVES DSK (Desktop)
 As of 2025 this desktop software is the "flagship instrument". Check the Kickstarter for updates. 
 - [GRAVITY_WAAAAVES DSK](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-DSK)
 - [GRAVITY_WAAAAVES DSK KickStarter](https://www.kickstarter.com/projects/gravitywaaaves/gravity-waaaves-dsk)
 
-## Video Waaaves a.ka. Video Synthesis Ecosphere Desktop (VSEDSK) 
+## Video Waaaves a.ka. Video Synthesis Ecosphere Desktop (VSEDSK)
+This is desktop software that 
 - [Video Synthesis Ecosphere Desktop](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP)
 - [Video Synthesis Ecosphere Desktop - Legacy](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
 - [GitHub - VIDEO_WAAAVES](https://github.com/ex-zee-ex/video_waaaves)
