@@ -5,6 +5,11 @@ Notes on Waave_Pool, Gravity_Waaaves, Video Synthesis Ecosphere for Raspberry Pi
 - [Explanation of the naming conventions](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
 - [License](https://andreijaycreativecoding.com/open-source)
 
+## GRAVITY_WAAAAVES DSK (Desktop)
+As of 2025 this desktop software is the "flagship instrument". Check the Kickstarter for updates. 
+- [GRAVITY_WAAAAVES DSK](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-DSK)
+- [GRAVITY_WAAAAVES DSK KickStarter](https://www.kickstarter.com/projects/gravitywaaaves/gravity-waaaves-dsk)
+
 ## Video Waaaves a.ka. Video Synthesis Ecosphere Desktop (VSEDSK) 
 - [Video Synthesis Ecosphere Desktop](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP)
 - [Video Synthesis Ecosphere Desktop - Legacy](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
@@ -14,6 +19,7 @@ Notes on Waave_Pool, Gravity_Waaaves, Video Synthesis Ecosphere for Raspberry Pi
 
 
 ## VSERPI (Video Synthesis Ecosphere Raspberry Pi)
+These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. The software is distributed as ISO files that you burn to an sd-card. Some of the ISO's have multiple programs available on them.
 - [Video Synthesis Ecosphere Raspberry pi](https://andreijaycreativecoding.com/Video-Synthesis-Ecosphere-RPI)
 - [DIY Hardware List](https://andreijaycreativecoding.com/VSERPI-hardware-and-images) 
 
@@ -44,6 +50,7 @@ Notes on Waave_Pool, Gravity_Waaaves, Video Synthesis Ecosphere for Raspberry Pi
 - [ARTIFICIAL_LIFE Manual](https://andreijaycreativecoding.com/Artificial-Life-Manual)
 
 ## VSEJET (Video Synthesis Ecosphere Jetson Nano)
+These run on the Nvidia Jetson Nano 4gb w/ sd-card (non-emmc version). GRAVITY_WAAAVES is one of the more advanced instruments. WAAAVE_POOL HD also runs on the Jetson Nano. And the GRAVITY_WAAAVES sd-card also has WAAAVE_POOL as a boot option.
 - [VSEJET Manuals](https://andreijaycreativecoding.com/VSEJET-Manuals)
 - [VSEJET DIY INSTRUCTIONS](https://andreijaycreativecoding.com/VSEJET-DIY-INSTRUCTIONS)
 - [VSEJET Images](https://andreijaycreativecoding.com/VSEJET-images)
