@@ -48,6 +48,9 @@ https://www.mycablemart.com/store/cart.php?p=602
 Possilby 700mA  
 https://raspberrypi.stackexchange.com/questions/45001/how-much-current-can-i-draw-from-each-models-hdmi-socket
 
+### Raspberry Pi GPU
+
+https://ttt.io/glsl-raspberry-pi
 
 ## Troubleshooting
 Default Password is Password. You can change this via TODO
