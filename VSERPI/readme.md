@@ -1,6 +1,8 @@
 # VSERPI
 
-## Hardware
+
+
+## Raspberry Pi Hardware
 ### Raspberry Pi 3 
 
 ### Raspberry Pi 3b+
@@ -35,3 +37,9 @@ There is no official support for RPI4.
 Kyle Brown has attempted a port:
 - [kyleBrownVserpi4.img.gz](https://drive.google.com/file/d/17PuhhM6yrgX3qrxHM127snkpHbwh-FiJ/view?usp=sharing)
 - [VSERPI4_dev_BUSTER0.img](https://drive.google.com/file/d/1Jiap8gEHD5eiI6mFzx-O8PfK6PWQQ5tL/)
+
+## Troubleshooting
+Default Password is Password. You can change this via TODO
+
+## Compatible Accessories
+Only some drivers are built in, such as for audio hats.
