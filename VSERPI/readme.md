@@ -44,6 +44,11 @@ https://www.mycablemart.com/store/cart.php?p=602
 ![trrs-diagram3](https://github.com/user-attachments/assets/f2f06900-2e7c-4939-a01b-718626e09cf7)
 
 
+### How many amps can the HDMI port supply?
+Possilby 700mA  
+https://raspberrypi.stackexchange.com/questions/45001/how-much-current-can-i-draw-from-each-models-hdmi-socket
+
+
 ## Troubleshooting
 Default Password is Password. You can change this via TODO
 
