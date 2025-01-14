@@ -38,6 +38,12 @@ Kyle Brown has attempted a port:
 - [kyleBrownVserpi4.img.gz](https://drive.google.com/file/d/17PuhhM6yrgX3qrxHM127snkpHbwh-FiJ/view?usp=sharing)
 - [VSERPI4_dev_BUSTER0.img](https://drive.google.com/file/d/1Jiap8gEHD5eiI6mFzx-O8PfK6PWQQ5tL/)
 
+### Analog out via headphone jack
+The correct cable is 3.5mm TRRS CTIA/Apple standard.  
+https://www.mycablemart.com/store/cart.php?p=602  
+![trrs-diagram3](https://github.com/user-attachments/assets/f2f06900-2e7c-4939-a01b-718626e09cf7)
+
+
 ## Troubleshooting
 Default Password is Password. You can change this via TODO
 
