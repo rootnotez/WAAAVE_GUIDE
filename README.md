@@ -35,7 +35,7 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 - [DIY Hardware List](https://andreijaycreativecoding.com/VSERPI-hardware-and-images) 
 
 ### WAAAVE_POOL
-- [GitHub - WAAAVE_POOL](https://github.com/ex-zee-ex/waaave_pool)
+- [GitHub - WAAAVE_POOL](https://github.com/ex-zee-ex/waaaave_pool)
 - [WAAAVE_POOL](https://andreijaycreativecoding.com/WAAAVE_POOL)
 - [WAAAVE_POOL Manual](https://andreijaycreativecoding.com/Waaave_Pool-manual)
 
