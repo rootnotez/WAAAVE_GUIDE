@@ -20,7 +20,7 @@ As of 2025 this desktop software is the "flagship instrument". Check the Kicksta
 - [GRAVITY_WAAAAVES DSK KickStarter](https://www.kickstarter.com/projects/gravitywaaaves/gravity-waaaves-dsk)
 
 ## Video Waaaves a.ka. Video Synthesis Ecosphere Desktop (VSEDSK)
-This is desktop software that 
+This is desktop software
 - [Video Synthesis Ecosphere Desktop](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP)
 - [Video Synthesis Ecosphere Desktop - Legacy](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
 - [Video Synthesis Ecosphere Desktop - Getting Started](https://andreijaycreativecoding.com/VIDEO-WAAAVES-GETTING-STARTED)
