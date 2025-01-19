@@ -30,7 +30,8 @@ This is desktop software
 
 ## VSERPI (Video Synthesis Ecosphere Raspberry Pi)
 These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. The software is distributed as ISO files that you burn to an sd-card. Some of the ISO's have multiple programs available on them.
-- [Video Synthesis Ecosphere Raspberry pi](https://andreijaycreativecoding.com/Video-Synthesis-Ecosphere-RPI)
+- [Video Synthesis Ecosphere Raspberry Pi](https://andreijaycreativecoding.com/Video-Synthesis-Ecosphere-RPI)
+- [Video Synthesis Ecosphere Raspberry Pi Manuals](https://andreijaycreativecoding.com/all-the-manuals)
 - [DIY Hardware List and ISO Images](https://andreijaycreativecoding.com/VSERPI-hardware-and-images) 
 
 ### WAAAVE_POOL
@@ -48,6 +49,10 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 - [SPECTRAL_MESH](https://andreijaycreativecoding.com/SPECTRAL_MESH)
 - [SPECTRAL_MESH Manual](https://andreijaycreativecoding.com/Spectral-Mesh-Manual)
 
+### CONVOLUTIONAL CHAOS
+- [GITHUB - CONVOLUTIONAL CHAOS](https://github.com/ex-zee-ex/convolutional_chaos)
+- [CONVOLUTIONAL CHAOS MANUAL](https://andreijaycreativecoding.com/CONVOLUTIONAL-CHAOS-MANUAL)
+  
 ### PHOSPHORM
 - [GitHub - PHOSPHORM](https://github.com/ex-zee-ex/phosphorm)
 - [PHOSPHORM](https://andreijaycreativecoding.com/PHOSPHORM)
