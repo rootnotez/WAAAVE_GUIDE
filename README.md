@@ -54,6 +54,10 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 - [Github - AUTO_MESH](https://github.com/ex-zee-ex/auto_mesh)
 - [AUTO_MESH Manual](https://andreijaycreativecoding.com/AUTO-MESH-MANUAL)
 
+### CHROMATIC_ABBERATION
+- [Github - CHROMATIC_ABBERATION](https://github.com/ex-zee-ex/CHROMATIC_ABERRATION1_the_search_for_sasquatch)
+- [CHROMATIC_ABBERATION Manual](https://andreijaycreativecoding.com/CHROMATIC-ABERRATION-MANUAL)
+
 ### CONVOLUTIONAL CHAOS
 - [GITHUB - CONVOLUTIONAL CHAOS](https://github.com/ex-zee-ex/convolutional_chaos)
 - [CONVOLUTIONAL CHAOS MANUAL](https://andreijaycreativecoding.com/CONVOLUTIONAL-CHAOS-MANUAL)
@@ -66,16 +70,23 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 - [Github - HELLO_WORLD](https://github.com/ex-zee-ex/HELLO_WORD)
 - [HELLO_WORLD Manual](https://andreijaycreativecoding.com/HELLO-WORD-MANUAL)
 
-### SPECTRAL_MESH
-- [GitHub - SPECTRAL_MESH](https://github.com/ex-zee-ex/spectral_mesh)
-- [SPECTRAL_MESH](https://andreijaycreativecoding.com/SPECTRAL_MESH)
-- [SPECTRAL_MESH Manual](https://andreijaycreativecoding.com/Spectral-Mesh-Manual)
-
 ### PHOSPHORM
 - [GitHub - PHOSPHORM](https://github.com/ex-zee-ex/phosphorm)
 - [PHOSPHORM](https://andreijaycreativecoding.com/PHOSPHORM)
 - [PHOSPHORM Manual](https://andreijaycreativecoding.com/Phosphorm-Manual)
 
+### SUPER_HAECKEL_ADVENTURES_64
+- [Github - HELLO_WORLD](https://github.com/ex-zee-ex/SUPER_HAECKEL_ADVENTURES_64)
+- [HELLO_WORLD Manual](https://andreijaycreativecoding.com/HELLO-WORD-MANUAL)
+
+### SPECTRAL_MESH
+- [GitHub - SPECTRAL_MESH](https://github.com/ex-zee-ex/spectral_mesh)
+- [SPECTRAL_MESH](https://andreijaycreativecoding.com/SPECTRAL_MESH)
+- [SPECTRAL_MESH Manual](https://andreijaycreativecoding.com/Spectral-Mesh-Manual)
+
+### TEMPORAL_VORTEX
+- [GITHUB - TEMPORAL_VORTEX](https://github.com/ex-zee-ex/temporal_vortex)
+- [TEMPORAL_VORTEX](https://andreijaycreativecoding.com/TEMPORAL-VORTEX-manual)
 
 
 ## VSEJET (Video Synthesis Ecosphere Jetson Nano)
