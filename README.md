@@ -31,7 +31,7 @@ This is desktop software
 ## VSERPI (Video Synthesis Ecosphere Raspberry Pi)
 These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. The software is distributed as ISO files that you burn to an sd-card. Some of the ISO's have multiple programs available on them.
 - [Video Synthesis Ecosphere Raspberry pi](https://andreijaycreativecoding.com/Video-Synthesis-Ecosphere-RPI)
-- [DIY Hardware List](https://andreijaycreativecoding.com/VSERPI-hardware-and-images) 
+- [DIY Hardware List and ISO Images](https://andreijaycreativecoding.com/VSERPI-hardware-and-images) 
 
 ### WAAAVE_POOL
 - [GitHub - WAAAVE_POOL](https://github.com/ex-zee-ex/waaaave_pool)
