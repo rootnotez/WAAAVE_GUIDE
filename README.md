@@ -44,6 +44,10 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 - [AUTO_WAAAVE](https://andreijaycreativecoding.com/AUTO_WAAAVE)
 - [AUTO_WAAAVE Manual](https://andreijaycreativecoding.com/AUTO-WAAAVE-MANUAL)
 
+### AUTO_MESH
+- [Github - AUTO_MESH](https://github.com/ex-zee-ex/auto_mesh)
+- [AUTO_MESH Manual](https://andreijaycreativecoding.com/AUTO-MESH-MANUAL)
+
 ### SPECTRAL_MESH
 - [GitHub - SPECTRAL_MESH](https://github.com/ex-zee-ex/spectral_mesh)
 - [SPECTRAL_MESH](https://andreijaycreativecoding.com/SPECTRAL_MESH)
