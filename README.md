@@ -39,6 +39,12 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 - [WAAAVE_POOL](https://andreijaycreativecoding.com/WAAAVE_POOL)
 - [WAAAVE_POOL Manual](https://andreijaycreativecoding.com/Waaave_Pool-manual)
 
+### ARTIFICIAL_LIFE
+- [Github - ARTIFICIAL_LIFE 1.4](https://github.com/ex-zee-ex/artificial_life)
+- [Github - ARTIFICIAL_LIFE 1.1](https://github.com/ex-zee-ex/artificial_life_1.1)
+- [ARTIFICIAL_LIFE](https://andreijaycreativecoding.com/ARTIFICIAL_LIFE)
+- [ARTIFICIAL_LIFE Manual](https://andreijaycreativecoding.com/Artificial-Life-Manual)
+
 ### AUTO_WAAAVE
 - [GitHub - AUTO_WAAAVES](https://github.com/ex-zee-ex/auto_waaave)
 - [AUTO_WAAAVE](https://andreijaycreativecoding.com/AUTO_WAAAVE)
@@ -48,25 +54,29 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 - [Github - AUTO_MESH](https://github.com/ex-zee-ex/auto_mesh)
 - [AUTO_MESH Manual](https://andreijaycreativecoding.com/AUTO-MESH-MANUAL)
 
+### CONVOLUTIONAL CHAOS
+- [GITHUB - CONVOLUTIONAL CHAOS](https://github.com/ex-zee-ex/convolutional_chaos)
+- [CONVOLUTIONAL CHAOS MANUAL](https://andreijaycreativecoding.com/CONVOLUTIONAL-CHAOS-MANUAL)
+
+### GENERIC GEOMETRICAL UTILITY
+- [Github - GENERIC GEOMETRICAL UTILITY](https://github.com/ex-zee-ex/GENERIC_GEOMETRY_UTILITY)
+- [GENERIC GEOMETRICAL UTILITY Manual](https://andreijaycreativecoding.com/GENERIC-GRAPHICS-UTILITY-MANUAL)
+
+### HELLO_WORLD
+- [Github - HELLO_WORLD](https://github.com/ex-zee-ex/HELLO_WORD)
+- [HELLO_WORLD Manual](https://andreijaycreativecoding.com/HELLO-WORD-MANUAL)
+
 ### SPECTRAL_MESH
 - [GitHub - SPECTRAL_MESH](https://github.com/ex-zee-ex/spectral_mesh)
 - [SPECTRAL_MESH](https://andreijaycreativecoding.com/SPECTRAL_MESH)
 - [SPECTRAL_MESH Manual](https://andreijaycreativecoding.com/Spectral-Mesh-Manual)
 
-### CONVOLUTIONAL CHAOS
-- [GITHUB - CONVOLUTIONAL CHAOS](https://github.com/ex-zee-ex/convolutional_chaos)
-- [CONVOLUTIONAL CHAOS MANUAL](https://andreijaycreativecoding.com/CONVOLUTIONAL-CHAOS-MANUAL)
-  
 ### PHOSPHORM
 - [GitHub - PHOSPHORM](https://github.com/ex-zee-ex/phosphorm)
 - [PHOSPHORM](https://andreijaycreativecoding.com/PHOSPHORM)
 - [PHOSPHORM Manual](https://andreijaycreativecoding.com/Phosphorm-Manual)
 
-### ARTIFICIAL_LIFE
-- [Github - ARTIFICIAL_LIFE 1.4](https://github.com/ex-zee-ex/artificial_life)
-- [Github - ARTIFICIAL_LIFE 1.1](https://github.com/ex-zee-ex/artificial_life_1.1)
-- [ARTIFICIAL_LIFE](https://andreijaycreativecoding.com/ARTIFICIAL_LIFE)
-- [ARTIFICIAL_LIFE Manual](https://andreijaycreativecoding.com/Artificial-Life-Manual)
+
 
 ## VSEJET (Video Synthesis Ecosphere Jetson Nano)
 These run on the Nvidia Jetson Nano 4gb w/ sd-card (non-emmc version). GRAVITY_WAAAVES is one of the more advanced instruments. WAAAVE_POOL HD also runs on the Jetson Nano. And the GRAVITY_WAAAVES sd-card also has WAAAVE_POOL as a boot option.
