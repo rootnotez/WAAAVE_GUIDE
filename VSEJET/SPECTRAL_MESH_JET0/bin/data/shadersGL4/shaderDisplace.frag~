@@ -1,0 +1,34 @@
+#version 460
+
+/*
+Things that need to be fixed
+-resolution biz
+*/
+
+const float PI=3.1415926535;
+const float TWO_PI=6.2831855;
+
+//NEW BIZ
+
+
+
+
+//uniform sampler2DRect input1Tex;
+
+in vec2 texCoordVarying;
+
+out vec4 outputColor;
+
+//tha WP biz of declarations
+//cam1=external input
+uniform sampler2DRect tex0;
+
+
+void main()
+{
+
+	vec4 input1Color = texture(tex0, texCoordVarying);
+	
+	outputColor = input1Color;
+
+}
