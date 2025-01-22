@@ -7,4 +7,4 @@ From: https://drive.google.com/file/d/1j6_BXQ-FenFTK65NYZlcWxqbMdWpzbXL/
 
 ## VSEJET/WPHD_1_0_release.iso
 [WPHD_1_0_release.iso](/VSEJET/WPHD_1_0_release.iso)  
-From: https://drive.google.com/file/d/1lLfQAMANsRtDjGq4dsXq8g-Jl7pj93qN/view?usp=sharing
+From: https://drive.google.com/file/d/1lLfQAMANsRtDjGq4dsXq8g-Jl7pj93qN/
