@@ -1,12 +1,12 @@
-# VSERPI
+# VSERPI - Video Synthesis Ecosphere for Raspberry Pi
 
-
-
-## Raspberry Pi Hardware
-### Raspberry Pi 3 
+## Raspberry Pi Hardware versions
+[RPI Foundation Docs on Board revisions](https://github.com/raspberrypi/documentation/blob/master/documentation/asciidoc/computers/raspberry-pi/revision-codes.adoc#new-style-revision-codes-in-use)
+### Raspberry Pi 3b
+Unclear if VSERPI will run on Pi 3b.
 
 ### Raspberry Pi 3b+
-There are rev 1.3 and 1.4 of the RPI 3b+. The rev 1.3 has been tested with the images published by Andrei. It appears that rev. 1.4 needs a fix to be bootable. The fix involves copying newer files from a working installation of Raspberry Pi OS.
+There are rev 1.3 and 1.4 of the RPI 3b+. The rev 1.3 has been tested with the images published by Andrei. It appears that rev. 1.4 needs a fix to be bootable. The fix involves copying files from the `/boot` partition of a newer working installation of Raspberry Pi OS.
 
 <details>
 <summary>
@@ -38,19 +38,37 @@ Kyle Brown has attempted a port:
 - [kyleBrownVserpi4.img.gz](https://drive.google.com/file/d/17PuhhM6yrgX3qrxHM127snkpHbwh-FiJ/view?usp=sharing)
 - [VSERPI4_dev_BUSTER0.img](https://drive.google.com/file/d/1Jiap8gEHD5eiI6mFzx-O8PfK6PWQQ5tL/)
 
+#### Composite on RPI4
+There are anecdotal reports of graphics stuttering on RPI4, which is why folks have not been sucessful at porting VSERPI to RPI4. 
+
+
+## Other Notes
 ### Analog out via headphone jack
 The correct cable is 3.5mm TRRS CTIA/Apple standard.  
 https://www.mycablemart.com/store/cart.php?p=602  
 ![trrs-diagram3](https://github.com/user-attachments/assets/f2f06900-2e7c-4939-a01b-718626e09cf7)
 
+### Raspberry Pi GPU
+
+https://ttt.io/glsl-raspberry-pi  
+https://forums.raspberrypi.com/viewtopic.php?t=317511  
+https://retropie.org.uk/docs/Overclocking/
+
+### Linux Versions
+| Debian | Codename  | Release Date  |
+|---------|----------|--------------|
+| 12      | Bookworm | 2023-06-10   |
+| 11      | Bullseye | 2021-08-14   |
+| 10      | Buster   | 2019-07-06   |
+| 9       | Stretch  | 2017-06-17   |
+
+**Raspberry PI OS Versions**  
+https://www.raspberrypi.com/software/operating-systems/
 
 ### How many amps can the HDMI port supply?
 Possilby 700mA  
 https://raspberrypi.stackexchange.com/questions/45001/how-much-current-can-i-draw-from-each-models-hdmi-socket
 
-### Raspberry Pi GPU
-
-https://ttt.io/glsl-raspberry-pi
 
 ## Troubleshooting
 Default Password is Password. You can change this via TODO
