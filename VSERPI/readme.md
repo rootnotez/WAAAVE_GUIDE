@@ -52,6 +52,7 @@ https://www.mycablemart.com/store/cart.php?p=602
 
 https://ttt.io/glsl-raspberry-pi  
 https://forums.raspberrypi.com/viewtopic.php?t=317511  
+https://forums.raspberrypi.com/viewtopic.php?t=268356  
 https://retropie.org.uk/docs/Overclocking/
 
 ### Linux Versions
