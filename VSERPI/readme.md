@@ -66,6 +66,9 @@ https://retropie.org.uk/docs/Overclocking/
 **Raspberry PI OS Versions**  
 https://www.raspberrypi.com/software/operating-systems/
 
+### Config.txt
+https://gist.github.com/GrayJack/2b27cdaf9a6432da7c5d8017a1b99030  
+
 ### How many amps can the HDMI port supply?
 Possilby 700mA  
 https://raspberrypi.stackexchange.com/questions/45001/how-much-current-can-i-draw-from-each-models-hdmi-socket
