@@ -32,7 +32,8 @@ This is desktop software
 These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. The software is distributed as ISO files that you burn to an sd-card. Some of the ISO's have multiple programs available on them.
 - [Video Synthesis Ecosphere Raspberry Pi](https://andreijaycreativecoding.com/Video-Synthesis-Ecosphere-RPI)
 - [Video Synthesis Ecosphere Raspberry Pi Manuals](https://andreijaycreativecoding.com/all-the-manuals)
-- [DIY Hardware List and ISO Images](https://andreijaycreativecoding.com/VSERPI-hardware-and-images) 
+- [DIY Hardware List and ISO Images](https://andreijaycreativecoding.com/VSERPI-hardware-and-images)
+- [VSERPI Quickstart Guide](https://andreijaycreativecoding.com/VSERPI-QUICKSTART-GUIDE)
 
 ### WAAAVE_POOL
 - [GitHub - WAAAVE_POOL](https://github.com/ex-zee-ex/waaaave_pool)
@@ -49,6 +50,7 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 - [GitHub - AUTO_WAAAVES](https://github.com/ex-zee-ex/auto_waaave)
 - [AUTO_WAAAVE](https://andreijaycreativecoding.com/AUTO_WAAAVE)
 - [AUTO_WAAAVE Manual](https://andreijaycreativecoding.com/AUTO-WAAAVE-MANUAL)
+- [AUTO_WAAAVE Quickstart Visual Guide](https://andreijaycreativecoding.com/auto-waaave-quickstart-pics)
 
 ### AUTO_MESH
 - [Github - AUTO_MESH](https://github.com/ex-zee-ex/auto_mesh)
@@ -76,8 +78,7 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 - [PHOSPHORM Manual](https://andreijaycreativecoding.com/Phosphorm-Manual)
 
 ### SUPER_HAECKEL_ADVENTURES_64
-- [Github - HELLO_WORLD](https://github.com/ex-zee-ex/SUPER_HAECKEL_ADVENTURES_64)
-- [HELLO_WORLD Manual](https://andreijaycreativecoding.com/HELLO-WORD-MANUAL)
+- [Github - SUPER_HAECKEL_ADVENTURES_64](https://github.com/ex-zee-ex/SUPER_HAECKEL_ADVENTURES_64)
 
 ### SPECTRAL_MESH
 - [GitHub - SPECTRAL_MESH](https://github.com/ex-zee-ex/spectral_mesh)
