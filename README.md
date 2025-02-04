@@ -34,7 +34,7 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 - [Video Synthesis Ecosphere Raspberry Pi Manuals](https://andreijaycreativecoding.com/all-the-manuals)
 - [DIY Hardware List and ISO Images](https://andreijaycreativecoding.com/VSERPI-hardware-and-images)
 - [VSERPI Quickstart Guide](https://andreijaycreativecoding.com/VSERPI-QUICKSTART-GUIDE)
-
+- [Midi Controller Overlays](https://drive.google.com/drive/folders/1zsbdpabAVxrDLnoeE1vsZXVniZDQgALT)
 ### WAAAVE_POOL
 - [GitHub - WAAAVE_POOL](https://github.com/ex-zee-ex/waaaave_pool)
 - [WAAAVE_POOL](https://andreijaycreativecoding.com/WAAAVE_POOL)
@@ -95,7 +95,8 @@ These run on the Nvidia Jetson Nano 4gb w/ sd-card (non-emmc version). GRAVITY_W
 - [VSEJET Manuals](https://andreijaycreativecoding.com/VSEJET-Manuals)
 - [VSEJET DIY INSTRUCTIONS](https://andreijaycreativecoding.com/VSEJET-DIY-INSTRUCTIONS)
 - [VSEJET Images](https://andreijaycreativecoding.com/VSEJET-images)
-
+- [Midi Controller Overlays](https://drive.google.com/drive/folders/1zsbdpabAVxrDLnoeE1vsZXVniZDQgALT)
+  
 ### GRAVITY_WAAAVES
 - Contains master boot options for WAAAVEPOOL HD, ARTIFICIAL_LIFE HD, TEMPORAL_VORTEX HD, CHROMATIC_ABBERATION HD 
 - [GRAVITY_WAAAVES](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-INFO)
