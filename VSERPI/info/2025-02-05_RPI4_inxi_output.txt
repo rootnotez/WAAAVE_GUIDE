@@ -1,0 +1,49 @@
+ubuntu@raspberrypi:~ $ inxi -Fz
+System:
+  Kernel: 6.6.74+rpt-rpi-v8 arch: aarch64 bits: 64 Desktop: LabWC
+    Distro: Debian GNU/Linux 12 (bookworm)
+Machine:
+  Type: ARM System: Raspberry Pi 4 Model B Rev 1.1 details: N/A rev: c03111
+    serial: <filter>
+CPU:
+  Info: quad core model: N/A variant: cortex-a72 bits: 64 type: MCP cache:
+    L2: 1024 KiB
+  Speed (MHz): avg: 1500 min/max: 600/1500 cores: 1: 1500 2: 1500 3: 1500
+    4: 1500
+Graphics:
+  Device-1: bcm2711-hdmi0 driver: vc4_hdmi v: N/A
+  Device-2: bcm2711-hdmi1 driver: vc4_hdmi v: N/A
+  Device-3: bcm2711-vc5 driver: vc4_drm v: N/A
+  Display: wayland server: X.org v: 1.21.1.7 with: Xwayland v: 22.1.9
+    compositor: LabWC driver:
+    gpu: vc4-drm,vc4_crtc,vc4_dpi,vc4_dsi,vc4_firmware_kms,vc4_hdmi,vc4_hvs,vc4_txp,vc4_v3d,vc4_vec
+    resolution: 1920x1080~60Hz
+  API: OpenGL v: 3.1 Mesa 23.2.1-1~bpo12+rpt3 renderer: V3D 4.2
+Audio:
+  Device-1: bcm2711-hdmi0 driver: vc4_hdmi
+  Device-2: bcm2711-hdmi1 driver: vc4_hdmi
+  API: ALSA v: k6.6.74+rpt-rpi-v8 status: kernel-api
+  Server-1: PipeWire v: 1.2.7 status: active
+Network:
+  Device-1: bcm2835-mmc driver: mmc_bcm2835
+  IF: wlan0 state: down mac: <filter>
+  Device-2: bcm2711-genet-v5 driver: bcmgenet
+  IF: eth0 state: up speed: 1000 Mbps duplex: full mac: <filter>
+Bluetooth:
+  Device-1: pl011 driver: uart_pl011
+  Report: hciconfig ID: hci0 state: up address: <filter> bt-v: 3.0
+  Device-2: pl011 driver: N/A
+Drives:
+  Local Storage: total: 59.45 GiB used: 5.34 GiB (9.0%)
+  ID-1: /dev/mmcblk0 type: Removable vendor: SanDisk model: SD64G
+    size: 59.45 GiB
+Partition:
+  ID-1: / size: 57.95 GiB used: 5.27 GiB (9.1%) fs: ext4 dev: /dev/mmcblk0p2
+Swap:
+  ID-1: swap-1 type: file size: 512 MiB used: 0 KiB (0.0%) file: /var/swap
+Sensors:
+  System Temperatures: cpu: 44.3 C mobo: N/A
+  Fan Speeds (RPM): N/A
+Info:
+  Processes: 202 Uptime: 10m Memory: 3.78 GiB used: 563.7 MiB (14.6%)
+  gpu: 76 MiB Shell: Bash inxi: 3.3.26
