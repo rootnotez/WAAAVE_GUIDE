@@ -1,9 +1,9 @@
-#VSERPI Midi Notes
+# VSERPI Midi Notes
 
-##
+## WAAAVEPOOL
 Attempting to understand which controls for WAAAVEPOOL are uni-polar vs bi-polar. Looking at `ofApp.cpp` there are two numbers used for scaling. Hardcoded `127.0` for uni-polar, and the value of the variable `MIDI_Magic 63.50` for bi-polar. This validates the hand-drawn control scheme map.  
 
-Note for slider values, there is an additional scaling factor if S,M,R button next to the fader is pressed.
+Note for slider values, there is an additional scaling factor if `S,M,R` buttons next to the fader is pressed.
 
 
 | **Param #** | **MIDI Control Number** | **Parameter Affected**         | **Type** |
