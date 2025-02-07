@@ -3,6 +3,14 @@
 ## WAAAVEPOOL
 Attempting to understand which controls for WAAAVEPOOL are uni-polar vs bi-polar. Looking at `ofApp.cpp` there are two numbers used for scaling. Hardcoded `127.0` for uni-polar, and the value of the variable `MIDI_Magic 63.50` for bi-polar. This validates the hand-drawn control scheme map.  
 
+<details>
+<summary>
+WavePool NanoKontrol2 default button positions
+</summary>
+
+![wp-controls](https://github.com/user-attachments/assets/eb3da170-9384-42d1-afa9-6d4ac1ee2370)  
+</details>
+
 Note for slider values, there is an additional scaling factor if `S,M,R` buttons next to the fader is pressed.
 
 
