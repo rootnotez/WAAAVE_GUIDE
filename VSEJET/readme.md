@@ -42,4 +42,7 @@ These include a Module and a carrier board. Usually the dev kits contain the `P3
 Typically a user should burn an SD card, and boot that way. However, if the user has an emmc version of the Jetson Nano, or wishes to boot off of USB, there may be options, this needs investigation.
 
 https://docs.nvidia.com/jetson/archives/r36.4.3/DeveloperGuide/SD/FlashingSupport.html#sd-flashingsupport  
-https://github.com/JetsonHacksNano/bootFromUSB
+
+https://docs.nvidia.com/jetson/archives/r34.1/DeveloperGuide/text/IN/QuickStart.html#to-flash-jetson-developer-kit-operating-software
+
+https://github.com/JetsonHacksNano/bootFromUSB  
