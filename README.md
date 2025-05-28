@@ -32,8 +32,8 @@ This is desktop software
 These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. The software is distributed as ISO files that you burn to an sd-card. Some of the ISO's have multiple programs available on them.
 - [Video Synthesis Ecosphere Raspberry Pi](https://andreijaycreativecoding.com/Video-Synthesis-Ecosphere-RPI)
 - [Video Synthesis Ecosphere Raspberry Pi Manuals](https://andreijaycreativecoding.com/all-the-manuals)
-- [DIY Hardware List and ISO Images](https://andreijaycreativecoding.com/VSERPI-hardware-and-images)
 - [VSERPI Quickstart Guide](https://andreijaycreativecoding.com/VSERPI-QUICKSTART-GUIDE)
+- [DIY Hardware List and ISO Images](https://andreijaycreativecoding.com/VSERPI-hardware-and-images)
 - [Midi Controller Overlays](https://drive.google.com/drive/folders/1zsbdpabAVxrDLnoeE1vsZXVniZDQgALT)
 ### WAAAVE_POOL
 - [GitHub - WAAAVE_POOL](https://github.com/ex-zee-ex/waaaave_pool)
@@ -48,9 +48,10 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 
 ### AUTO_WAAAVE
 - [GitHub - AUTO_WAAAVES](https://github.com/ex-zee-ex/auto_waaave)
+- [AUTO_WAAAVE Quickstart Visual Guide](https://andreijaycreativecoding.com/auto-waaave-quickstart-pics)
 - [AUTO_WAAAVE](https://andreijaycreativecoding.com/AUTO_WAAAVE)
 - [AUTO_WAAAVE Manual](https://andreijaycreativecoding.com/AUTO-WAAAVE-MANUAL)
-- [AUTO_WAAAVE Quickstart Visual Guide](https://andreijaycreativecoding.com/auto-waaave-quickstart-pics)
+
 
 ### AUTO_MESH
 - [Github - AUTO_MESH](https://github.com/ex-zee-ex/auto_mesh)
