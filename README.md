@@ -69,9 +69,9 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 - [Github - GENERIC GEOMETRICAL UTILITY](https://github.com/ex-zee-ex/GENERIC_GEOMETRY_UTILITY)
 - [GENERIC GEOMETRICAL UTILITY Manual](https://andreijaycreativecoding.com/GENERIC-GRAPHICS-UTILITY-MANUAL)
 
-### HELLO_WORLD
-- [Github - HELLO_WORLD](https://github.com/ex-zee-ex/HELLO_WORD)
-- [HELLO_WORLD Manual](https://andreijaycreativecoding.com/HELLO-WORD-MANUAL)
+### HELLO_WORD
+- [Github - HELLO_WORD](https://github.com/ex-zee-ex/HELLO_WORD)
+- [HELLO_WORD Manual](https://andreijaycreativecoding.com/HELLO-WORD-MANUAL)
 
 ### PHOSPHORM
 - [GitHub - PHOSPHORM](https://github.com/ex-zee-ex/phosphorm)
