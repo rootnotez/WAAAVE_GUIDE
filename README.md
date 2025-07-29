@@ -5,6 +5,8 @@ Notes on Waave_Pool, Gravity_Waaaves, Video Synthesis Ecosphere for Raspberry Pi
 - [Explanation of the naming conventions](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
 - [License](https://andreijaycreativecoding.com/open-source)
 - [About Page](https://andreijaycreativecoding.com/about-me)
+  - [VideoSynthesisEcosphere.com](https://videosynthesisecosphere.com/)
+  - [Andrei Jay Creative Coding](https://andreijaycreativecoding.com/)
   - [Instagram - @andrei_jay_video_wizard](https://www.instagram.com/andrei_jay_video_wizard/)
   - [Ko-fi - andreijay](https://ko-fi.com/andreijay)
   - [Mastodon - @andrei_jay](https://autonomous.zone/@andrei_jay)
@@ -16,8 +18,13 @@ Additional documentation for many of these video instruments are on Andrei Jay's
 
 ## GRAVITY_WAAAAVES DSK (Desktop)
 As of 2025 this desktop software is the "flagship instrument". Check the Kickstarter for updates. 
+- [Buy Gravity Waaaves DSK @ VideoSythesisEcosphere.com](https://shop.videosynthesisecosphere.com/products/waaave-pool-dsk)
 - [GRAVITY_WAAAAVES DSK](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-DSK)
 - [GRAVITY_WAAAAVES DSK KickStarter](https://www.kickstarter.com/projects/gravitywaaaves/gravity-waaaves-dsk)
+
+## WAAAVEPOOL DSK (Desktop)
+Free port of WAAAVEPOOL to Desktop
+- [WAAAVEPOOL DSK](https://videosynthesisecosphere.com/waaave-pool-dsk)
 
 ## Video Waaaves a.ka. Video Synthesis Ecosphere Desktop (VSEDSK)
 This is desktop software
