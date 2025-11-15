@@ -19,7 +19,8 @@ Additional documentation for many of these video instruments are on Andrei Jay's
 ## GRAVITY_WAAAAVES DSK (Desktop)
 Kickstarter fulfilled July 2025
 - [Buy Gravity Waaaves DSK @ VideoSythesisEcosphere.com](https://shop.videosynthesisecosphere.com/products/waaave-pool-dsk)
-- [GRAVITY_WAAAAVES DSK](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-DSK)
+- [GRAVITY_WAAAAVES DSK (old site)](https://videosynthesisecosphere.com/gravity-waaaves-dsk)
+- [GRAVITY_WAAAAVES DSK (new site)](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-DSK)
 - [GRAVITY_WAAAVES DSK Manual and Downloads](https://videosynthesisecosphere.com/downloads)  
 - [GRAVITY_WAAAAVES DSK KickStarter](https://www.kickstarter.com/projects/gravitywaaaves/gravity-waaaves-dsk)
 
