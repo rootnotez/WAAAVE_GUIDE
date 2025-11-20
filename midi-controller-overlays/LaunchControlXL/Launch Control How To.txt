@@ -1,0 +1,7 @@
+-Plug in the controller.
+-Go to https://components.novationmusic.com/
+-Select your controller
+-Click upload template and select the template
+-Make sure it loaded the template
+-Click Send to Launch Control XL and select a preset location for it
+-Make sure the controller does an LED dance then you are good to go.
