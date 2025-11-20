@@ -11,6 +11,14 @@ WavePool NanoKontrol2 default button positions
 ![wp-controls](https://github.com/user-attachments/assets/eb3da170-9384-42d1-afa9-6d4ac1ee2370)  
 </details>
 
+<details>
+<summary>
+WaaavePool NanoKontrol2 Midi Map
+</summary>
+  
+![NK2-midi-CC](https://github.com/user-attachments/assets/27ae3184-e5b2-4b2e-8606-8a9bb41a523f)
+</details>
+
 Note for slider values, there is an additional scaling factor if `S,M,R` buttons next to the fader is pressed.
 
 
