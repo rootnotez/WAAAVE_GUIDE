@@ -26,3 +26,10 @@ ManyCam: Virtual webcam software that supports multiple video sources, adding im
 ​
 
 XSplit Broadcaster: Can function as a virtual camera in Zoom, Google Meet, Teams, and Discord, and supports media slideshows and pre‑recorded videos as scene sources for playout. This makes it straightforward to switch between camera, screen shares, and video clips while sending a single virtual‑cam feed to other apps.
+
+
+E2esoft VCam: $9.99-$69.99 range, one-time purchase with free trial  
+Fineshare FineCam: $9.95/month, $29.99/year, or $59.99 lifetime with free version available  
+WeCam: $12.95/year or $25.95 lifetime (one-time)  
+AlterCam: $39.95 (single), $59.95 (family), or $199.95 (business) - all one-time purchases  
+Streamlabs Desktop: Completely free with optional Ultra subscription for premium features  
