@@ -1,6 +1,13 @@
 # GRAVITY_WAAAAVES DSK (Desktop)
 GW-DSK and WP-DSK have a similar codebase and user interface. This page collects technical information that should apply to both of them.
 
+## Media Player
+On MacOs the default media directory is:  
+  `/Applications/waaave_pool_dsk-1_1/data/movies`  
+On Windows the default media directory is:  
+  `C:/Gravity_Waaaves_v1.19\bin\data`  
+
+
 ## OBS Support
 From the Readme.txt Andrei says: "using obs virtual camera isn't supported.  don't bug me on this, i can't fix it, maybe obs devs can?"
 
