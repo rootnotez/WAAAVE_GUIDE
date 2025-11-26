@@ -1,6 +1,10 @@
 # GRAVITY_WAAAAVES DSK (Desktop)
 GW-DSK and WP-DSK have a similar codebase and user interface. This page collects technical information that should apply to both of them.
 
+## WAAAVE Pool DSK
+Send an email to waaavePoolRegister (at) valtown.email and register your copy of WPDSK to get access to bonus presets! 
+
+
 ## Media Player
 On MacOs the default media directory is:  
   `/Applications/waaave_pool_dsk-1_1/data/movies`  
