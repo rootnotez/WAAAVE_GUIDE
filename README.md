@@ -1,8 +1,8 @@
 # WAAAVE_GUIDE
-Notes on Waave_Pool, Gravity_Waaaves, Video Synthesis Ecosphere for Raspberry Pi (VSERPI), Video Synthesis Ecosphere for Jetson (VSEJET)
+Notes on Waave_Pool, Gravity_Waaaves, Video Synthesis Ecosphere for Raspberry Pi (VSERPI), Video Synthesis Ecosphere for Jetson (VSEJET), Video Synthesis Ecosphere Desktop (VSEDSK)
 
 # Andrei Jay's Instruments and Projects
-- [Explanation of the naming conventions](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
+- Naming conventions: [current desktop names](/VSEDSK#names), [Andrei's older notes on nomenclature](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
 - [License](https://andreijaycreativecoding.com/open-source)
 - [About Page](https://andreijaycreativecoding.com/about-me)
   - [VideoSynthesisEcosphere.com](https://videosynthesisecosphere.com/)
@@ -16,26 +16,39 @@ Notes on Waave_Pool, Gravity_Waaaves, Video Synthesis Ecosphere for Raspberry Pi
  
 Additional documentation for many of these video instruments are on Andrei Jay's Youtube.  
 
-## GRAVITY_WAAAVES DSK (Desktop)
-Kickstarter fulfilled July 2025
-- [Buy Gravity Waaaves DSK @ VideoSynthesisEcosphere.com](https://shop.videosynthesisecosphere.com/products/gravity-waaaves-dsk)
-- [GRAVITY_WAAAVES DSK (new site)](https://videosynthesisecosphere.com/gravity-waaaves-dsk)
-- [GRAVITY_WAAAVES DSK (old site)](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-DSK)
-- [GRAVITY_WAAAVES DSK Manual and Downloads](https://videosynthesisecosphere.com/downloads)  
-- [GRAVITY_WAAAVES DSK KickStarter](https://www.kickstarter.com/projects/gravitywaaaves/gravity-waaaves-dsk)
+## VSEDSK (Video Synthesis Ecosphere Desktop)
+VSEDSK is the umbrella name for the desktop (Windows and macOS) instruments. It currently has three: Waaave Pool DSK Pro, Gravity Waaaves DSK, and Waaave Pool DSK. Versions, system notes, and an explanation of the names are in [VSEDSK](/VSEDSK). The older VIDEO_WAAAVES suite also used this name and is now legacy.
+- [VSEDSK](https://videosynthesisecosphere.com/vsedsk)
+- [Downloads and Manuals](https://videosynthesisecosphere.com/downloads)
+- [FAQ](https://videosynthesisecosphere.com/faq)
+- [Support](https://videosynthesisecosphere.com/support)
+- [YouTube playlist - Video Synthesis Ecosphere DSK](https://www.youtube.com/playlist?list=PLTAAQQpCNd6TWnhnUpDyA_kKPMMIZ9qA-)
 
-## WAAAVEPOOL DSK (Desktop)
-Free port of WAAAVEPOOL to Desktop
-- [WAAAVEPOOL DSK](https://videosynthesisecosphere.com/waaave-pool-dsk)
+### WAAAVE POOL DSK PRO (WPDSK Pro)
+Semi-modular video synthesizer with a new engine, based on the core signal flow of Waaave Pool. Comes in Free, Basic, and Advanced versions.
+- [WAAAVE POOL DSK PRO](https://videosynthesisecosphere.com/waaave-pool-dsk-pro)
+- [WAAAVE POOL DSK PRO Kickstarter](https://www.kickstarter.com/projects/andreijay/waaave-pool-dsk-pro)
 
-## Video Waaaves a.ka. Video Synthesis Ecosphere Desktop (VSEDSK)
-This is desktop software
-- [Video Synthesis Ecosphere Desktop](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP)
-- [Video Synthesis Ecosphere Desktop - Legacy](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
-- [Video Synthesis Ecosphere Desktop - Getting Started](https://andreijaycreativecoding.com/VIDEO-WAAAVES-GETTING-STARTED)
+### GRAVITY WAAAVES DSK (GWDSK)
+Paid software. Desktop port of the VSEJET GRAVITY_WAAAVES, expanded with media players and presets. Kickstarter fulfilled July 2025
+- [GRAVITY WAAAVES DSK](https://videosynthesisecosphere.com/gravity-waaaves-dsk)
+- [Buy GRAVITY WAAAVES DSK @ VideoSynthesisEcosphere.com](https://shop.videosynthesisecosphere.com/products/gravity-waaaves-dsk)
+- [GRAVITY WAAAVES DSK (old site)](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-DSK)
+- [GRAVITY WAAAVES DSK Kickstarter](https://www.kickstarter.com/projects/gravitywaaaves/gravity-waaaves-dsk)
+- [GWDSK community notes](/GWDSK)
+
+### WAAAVE POOL DSK (WPDSK)
+Free desktop port of the VSERPI WAAAVE_POOL
+- [WAAAVE POOL DSK](https://videosynthesisecosphere.com/waaave-pool-dsk)
+
+### VIDEO_WAAAVES (legacy VSEDSK / VSEDSKP)
+The original open source desktop software. It is built from source with openFrameworks, and is no longer actively maintained.
+- [VSEDSKP](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP)
+- [VSEDSKP - Legacy](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
+- [VSEDSKP - Getting Started](https://andreijaycreativecoding.com/VIDEO-WAAAVES-GETTING-STARTED)
+- [VSEDSKP - How to use NDI](https://andreijaycreativecoding.com/VIDEO-WAAAVES-how-to-use-NDI)
 - [GitHub - VIDEO_WAAAVES_2.7](https://github.com/ex-zee-ex/VIDEO_WAAAVES_2.718)
 - [GitHub - VIDEO_WAAAVES_2.5_SUITE](https://github.com/ex-zee-ex/VIDEO_WAAAVES_2.5_suite)
-
 
 ## VSERPI (Video Synthesis Ecosphere Raspberry Pi)
 These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. The software is distributed as ISO files that you burn to an sd-card. Some of the ISO's have multiple programs available on them.
