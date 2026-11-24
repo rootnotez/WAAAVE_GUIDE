@@ -1,28 +1,58 @@
 # WAAAVE_GUIDE
-Community notes on Andrei Jay's video synthesis instruments.
+A community guide to the video synthesizers made by [Andrei Jay](https://andreijaycreativecoding.com/about-me). These instruments generate and process video in real time. They delay, mix, key, and warp it, and feed it back into itself. People use them for video art and live performance, with cameras, video mixers, other video gear, or no video input at all.
 
-- [VSEDSK: desktop](#vsedsk-video-synthesis-ecosphere-desktop)
-- [VSERPI: Raspberry Pi](#vserpi-video-synthesis-ecosphere-raspberry-pi)
-- [VSEJET: Jetson Nano](#vsejet-video-synthesis-ecosphere-jetson-nano)
-- [General videos](#general-videos)
+There are three families, named for what they run on. VSE stands for Video Synthesis Ecosphere.
 
-## Andrei Jay
+| Family | Runs on | What to expect |
+|---|---|---|
+| [VSEDSK](#vsedsk-desktop) | Windows or macOS computer | Software to download, free and paid. Most new development happens here |
+| [VSERPI](#vserpi-raspberry-pi) | Raspberry Pi 3B or 3B+ | Standalone units in standard definition. Buy one or build your own |
+| [VSEJET](#vsejet-jetson-nano) | Nvidia Jetson Nano 4GB | Standalone units in HD. Build your own, or buy one in an occasional limited run |
 
-### Websites
-- [VideoSynthesisEcosphere.com](https://videosynthesisecosphere.com/)
-- [Andrei Jay Creative Coding](https://andreijaycreativecoding.com/) (older site)
-- [About](https://andreijaycreativecoding.com/about-me)
-- [License](https://andreijaycreativecoding.com/open-source)
+This page lists every instrument with its official pages, manual, source code, and videos. Open **Videos** under an instrument to see its list. The repo also holds [community notes](#community-notes-in-this-repo) on hardware, MIDI control, and troubleshooting.
 
-### Support Andrei
-- [Patreon](https://www.patreon.com/c/andrei_jay)
-- [Ko-fi](https://ko-fi.com/andreijay)
+## Where to start
+- **Try one for free:** install [Waaave Pool DSK Pro Free](#waaave-pool-dsk-pro-wpdsk-pro) or [Waaave Pool DSK](#waaave-pool-dsk-wpdsk) on your computer.
+- **Choose an instrument:** use the [table below](#find-an-instrument) to compare them by what they do.
+- **Set up a unit you own:** go to its family, [VSERPI](#vserpi-raspberry-pi) or [VSEJET](#vsejet-jetson-nano), then to the instrument's manual and videos.
+- **Build your own:** follow the DIY links under [VSERPI](#vserpi-raspberry-pi) or [VSEJET](#vsejet-jetson-nano).
+- **Learn video feedback:** watch the [general videos](#general-videos).
+- **Fix a problem:** see [Getting help](#getting-help).
 
-### Social
-- [YouTube](https://www.youtube.com/@andreijay)
-- [Instagram](https://www.instagram.com/andrei_jay_video_wizard/)
-- [Mastodon](https://autonomous.zone/@andrei_jay)
-- [TikTok](https://www.tiktok.com/@andrei_jay)
+## Find an instrument
+
+| What it does | VSEDSK (desktop) | VSERPI (Raspberry Pi) | VSEJET (Jetson Nano) |
+|---|---|---|---|
+| Video delay and feedback | [WPDSK Pro](#waaave-pool-dsk-pro-wpdsk-pro), [WPDSK](#waaave-pool-dsk-wpdsk) | [WAAAVE_POOL](#waaave_pool) | [WAAAVE_POOL_HD](#waaave_pool_hd), [LTD](#waaave_pool_hd-ltd) |
+| Video delay and feedback, audio reactive | | [AUTO_WAAAVE](#auto_waaave) | |
+| Two channel mixer with two delay lines | [GWDSK](#gravity-waaaves-dsk-gwdsk) | | [GRAVITY_WAAAVES](#gravity_waaaves) |
+| Chaotic video oscillators | | [ARTIFICIAL_LIFE](#artificial_life) | [HD version](#gravity_waaaves) |
+| Scan processing | | [SPECTRAL_MESH](#spectral_mesh) | |
+| Scan processing, audio reactive | | [AUTO_MESH](#auto_mesh) | |
+| Slitscan | | [TEMPORAL_VORTEX](#temporal_vortex) | [HD version](#gravity_waaaves) |
+| Colorizing and solarizing | | [CHROMATIC_ABERRATION](#chromatic_aberration) | [HD version](#gravity_waaaves) |
+| Audio and video together, for vector displays and lasers | | [PHOSPHORM](#phosphorm) | |
+| Convolution feedback | | [CONVOLUTIONAL_CHAOS](#convolutional_chaos) | |
+| Geometric transformations | | [GENERIC_GEOMETRY_UTILITY](#generic_geometry_utility) | |
+| Text for keying | | [HELLO_WORD](#hello_word) | |
+| Superformula shapes | | [SUPER_HAECKEL_ADVENTURES_64](#super_haeckel_adventures_64) | |
+| Older open source suite | [VIDEO_WAAAVES](#video_waaaves-legacy) | | |
+
+## Getting help
+Check the [official FAQ](https://videosynthesisecosphere.com/faq) first.
+
+- **Desktop software:** gather the details in the [help guide](/GWDSK/GWDSK-help.md), then fill out the [official support form](https://videosynthesisecosphere.com/support).
+- **VSERPI or VSEJET bought from Andrei:** fill out the form on the same [support page](https://videosynthesisecosphere.com/support).
+- **DIY or secondhand units:** ask the community on [Discord](https://discord.gg/jarb32Aymg) or [scanlines.xyz](https://scanlines.xyz/c/vse/21).
+
+## Community notes in this repo
+- [VSEDSK](/VSEDSK): names, versions, and a comparison of the WPDSK Pro versions
+- [GWDSK](/GWDSK): media folders and virtual cameras for GWDSK and WPDSK
+- [VSERPI](/VSERPI): Raspberry Pi hardware, including a fix for newer boards that won't boot
+- [VSERPI MIDI](/VSERPI/midi.md): MIDI controls and their ranges
+- [VSEJET](/VSEJET): Jetson Nano hardware and SD card images
+- [MIDI controller overlays](/midi-controller-overlays): printable overlays and mappings for the Korg nanoKONTROL2 and Novation Launch Control XL
+- [Manuals](/manuals): PDF copies for GRAVITY_WAAAVES and WAAAVE_POOL_HD
 
 ## VSEDSK (Video Synthesis Ecosphere Desktop)
 Software for Windows and macOS.
