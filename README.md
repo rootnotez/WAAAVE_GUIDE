@@ -142,10 +142,68 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 - [DIY Hardware List and ISO Images](https://andreijaycreativecoding.com/VSERPI-hardware-and-images)
 - [Midi Controller Overlays](/midi-controller-overlays)
 
+<details>
+<summary>Videos (7)</summary>
+
+- Playlist: [Exploring the Video Synthesis Ecosphere RPI](https://www.youtube.com/playlist?list=PLTAAQQpCNd6Ss0EACdBVvWVbCs76T9q4w)
+- Playlist: [VSERPI 1.5 updates](https://www.youtube.com/playlist?list=PLTAAQQpCNd6Sg_22tB_dUFU_wDHTR4S_j)
+- Playlist: [Introduction to video synthesis on the Raspberry Pi 3b/3b+ (parts 2-4 are Patreon only)](https://www.youtube.com/playlist?list=PLTAAQQpCNd6Q2T5G-FvZKY7dfibO-bK3L)
+
+**Covers several instruments**
+
+- [VSERPI 1.5: how to update your images!](https://www.youtube.com/watch?v=lUT1biVSk0s) (2022-01-26, 15 min)
+- [VSERPI 1.5 updates: Introducing Hello Word _ & how to edit auto run configurations](https://www.youtube.com/watch?v=FkXYysgiMUw) (2022-01-27, 20 min)
+- [VSERPI 1.5 updates: Welcome to Convolutional Chaos & master boot options!](https://www.youtube.com/watch?v=ztdeGePZ7jg) (2022-01-27, 11 min)
+- [Exploring the Video Synthesis Ecosphere RPI episode 7: The Mystery and Myth of Master Boot](https://www.youtube.com/watch?v=FUD2UuGjjkA) (2021-08-11, 9 min)
+- [Exploring the Video Synthesis Ecosphere RPI episode 5: Chaining Units](https://www.youtube.com/watch?v=G4iAz56NoSA) (2021-07-14, 16 min)
+- [Exploring the Video Synthesis Ecosphere RPI episode 8: Getting down into some Lerping!](https://www.youtube.com/watch?v=cDYySOViPj0) (2021-09-07, 18 min)
+- [Introduction to Video Synthesis on the Raspberry Pi](https://www.youtube.com/watch?v=Fh95wxSme_Q) (2026-07-14, 74 min)
+
+</details>
+
 ### WAAAVE_POOL
 - [GitHub - WAAAVE_POOL](https://github.com/ex-zee-ex/waaaave_pool)
 - [WAAAVE_POOL](https://andreijaycreativecoding.com/WAAAVE_POOL)
 - [WAAAVE_POOL Manual](https://andreijaycreativecoding.com/Waaave_Pool-manual)
+
+<details>
+<summary>Videos (25)</summary>
+
+- Playlist: [WAAAVE_POOL tutorials](https://www.youtube.com/playlist?list=PLTAAQQpCNd6SU0xdd43bElwPmF2ETEE_L)
+- Playlist: [Waaave Pool demos](https://www.youtube.com/playlist?list=PLTAAQQpCNd6SGQdVX0A0_nrnWOwHXW_om)
+
+**Guides and demos**
+
+- [Waaave_Pool video quickstart guide](https://www.youtube.com/watch?v=Wp1SrkcemFs) (2020-08-01, 40 min)
+- [Waaave Pool tutorial episode 1: lumakey, mix, and delay](https://www.youtube.com/watch?v=HL_g-JueJu8) (2020-02-05, 6 min)
+- [Waaave Pool tutorial episode 2: hue, saturation, brightness](https://www.youtube.com/watch?v=vhKnNQa0LwA) (2020-02-05, 6 min)
+- [Waaave Pool tutorial episode 3: temporal filter](https://www.youtube.com/watch?v=fsNM9XUn7Go) (2020-02-05, 5 min)
+- [Waaave Pool tutorial episode 4: x, y, z, theta](https://www.youtube.com/watch?v=1XAAtRPNrC4) (2020-02-05, 8 min)
+- [v 1.3 update info and whats up with the chaotic hue controls](https://www.youtube.com/watch?v=kkDklGugcoQ) (2020-04-14, 33 min)
+- [Waaave_Pool v1.4 updates and demo!](https://www.youtube.com/watch?v=OXqYyLzmi18) (2020-12-19, 47 min)
+- [VSERPI 1.5 updates: Sharpen & Video Reactive modes in Waaave Pool](https://www.youtube.com/watch?v=WKzOVSKeTwA) (2022-01-26, 37 min)
+- [Exploring the Video Synthesis Ecosphere RPI episode 1: Waaave Pool Geometry](https://www.youtube.com/watch?v=srA18OmaV7k) (2021-04-15, 15 min)
+- [Exploring the Video Synthesis Ecosphere RPI episode 2: Strobing in Waaave Pool (STROBE WARNING)](https://www.youtube.com/watch?v=gF_w1bqC0Iw) (2021-04-28, 13 min)
+- [Exploring the Video Synthesis Ecosphere RPI episode 10: Waaave Pool extra acid mode](https://www.youtube.com/watch?v=mUXKDGAY2SA) (2021-10-29, 14 min)
+- [Exploring the Video Synthesis Ecosphere RPI episode 11: Phosphorm and Waaave Pool](https://www.youtube.com/watch?v=gavGoFHIHog) (2021-11-10, 28 min)
+- [Artificial Life x Waaave Pool](https://www.youtube.com/watch?v=RffzHlw1fbU) (2020-07-01, 2 min)
+- [artificial_life+chromatic_aberration+waaaave_pool](https://www.youtube.com/watch?v=Yj5dQnWgsXM) (2020-08-09, 54 min)
+- [al wp promo](https://www.youtube.com/watch?v=N_nNJZmcZuM) (2020-08-14, 7 min)
+- [SUPER_HAECKEL_ADVENTURES_64+waaave_pool](https://www.youtube.com/watch?v=tA0iZ_aWaSw) (2020-03-25, 9 min)
+- [waaave poolquality update1](https://www.youtube.com/watch?v=ekTBE5ujVM4) (2020-02-02, 3 min)
+- [waaave poolquality update2](https://www.youtube.com/watch?v=eyufH2ZvVpY) (2020-02-02, 2 min)
+- [Waaave Pool Commercial](https://www.youtube.com/watch?v=Q9Kx8YNLTyo) (2020-10-25, 1 min)
+- [Waaave Pool Commercial 2](https://www.youtube.com/watch?v=wOrlWk73yPc) (2024-08-05, 1 min)
+
+**Made with it**
+
+- [TANTRICK ACID](https://www.youtube.com/watch?v=IRZ7DAvFnhY) (2022-12-12, 59 min)
+- [ULTRATERRESTRIAL](https://www.youtube.com/watch?v=Dd2UwP-fbVE) (2022-02-25, 64 min)
+- ["The Strange New Science of Chaos" A/V remix by Andrei Jay](https://www.youtube.com/watch?v=EkWsYGvnow4) (2021-02-22, 58 min)
+- [Andrei Jay NYE 2020 Live A/v "Borganismgasm"](https://www.youtube.com/watch?v=VZs7sTbTYqs) (2021-01-01, 32 min)
+- [GITs Waaave_Pool remix](https://www.youtube.com/watch?v=NJtwqSJF3pI) (2020-07-27, 84 min)
+
+</details>
 
 ### ARTIFICIAL_LIFE
 - [Github - ARTIFICIAL_LIFE 1.4](https://github.com/ex-zee-ex/artificial_life)
@@ -153,50 +211,205 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 - [ARTIFICIAL_LIFE](https://andreijaycreativecoding.com/ARTIFICIAL_LIFE)
 - [ARTIFICIAL_LIFE Manual](https://andreijaycreativecoding.com/Artificial-Life-Manual)
 
+<details>
+<summary>Videos (12)</summary>
+
+- Playlist: [artificial_life demos](https://www.youtube.com/playlist?list=PLTAAQQpCNd6RbdQLAQcuEl_h3h6t4yVX2)
+
+**Guides and demos**
+
+- [Artificial Life Video Manual](https://www.youtube.com/watch?v=7hhpWgjskmI) (2020-08-27, 39 min)
+- [Artificial life v1.4 updates: fun with feedback and strange colors!](https://www.youtube.com/watch?v=X38-Z9yJq1U) (2020-12-20, 48 min)
+- [VSERPI 1.5 updates: Colorizer, PWM, new feedback modes in Artificial Life](https://www.youtube.com/watch?v=joOjknpc3iU) (2022-01-27, 29 min)
+- [Exploring the Video Synthesis Ecosphere RPI episode 3: Motion Recording in Artificial Life](https://www.youtube.com/watch?v=FQFhhICBoko) (2021-05-15, 11 min)
+- [Artificial Life x Spectral Mesh](https://www.youtube.com/watch?v=vLedF2WYGso) (2020-07-01, 4 min)
+- [Artificial Life x Waaave Pool](https://www.youtube.com/watch?v=RffzHlw1fbU) (2020-07-01, 2 min)
+- [artificial_life+chromatic_aberration+waaaave_pool](https://www.youtube.com/watch?v=Yj5dQnWgsXM) (2020-08-09, 54 min)
+- [al wp promo](https://www.youtube.com/watch?v=N_nNJZmcZuM) (2020-08-14, 7 min)
+
+**Made with it**
+
+- [XZX "arrival"](https://www.youtube.com/watch?v=q2AgWBK0pqU) (2023-11-28, 42 min)
+- ["The Strange New Science of Chaos" A/V remix by Andrei Jay](https://www.youtube.com/watch?v=EkWsYGvnow4) (2021-02-22, 58 min)
+- [Andrei Jay NYE 2020 Live A/v "Borganismgasm"](https://www.youtube.com/watch?v=VZs7sTbTYqs) (2021-01-01, 32 min)
+- [Terence McKenna Live a/v remix by Paloma Kop & Andrei Jay](https://www.youtube.com/watch?v=smIJKRCRqjA) (2020-12-01, 28 min)
+
+</details>
+
 ### AUTO_WAAAVE
 - [GitHub - AUTO_WAAAVES](https://github.com/ex-zee-ex/auto_waaave)
 - [AUTO_WAAAVE Quickstart Visual Guide](https://andreijaycreativecoding.com/auto-waaave-quickstart-pics)
 - [AUTO_WAAAVE](https://andreijaycreativecoding.com/AUTO_WAAAVE)
 - [AUTO_WAAAVE Manual](https://andreijaycreativecoding.com/AUTO-WAAAVE-MANUAL)
 
+<details>
+<summary>Videos (4)</summary>
+
+- Playlist: [auto_waaaves demos](https://www.youtube.com/playlist?list=PLTAAQQpCNd6Q_9B_85HnfmQFks-BP_1tt)
+
+**Guides and demos**
+
+- [introduction to Auto Waaave](https://www.youtube.com/watch?v=JfgfqzUo99k) (2020-06-10, 20 min)
+- [Exploring the Video Synthesis Ecosphere RPI episode 4: Quick Start Guide to Auto Waaave](https://www.youtube.com/watch?v=6SPlqdmG8oU) (2021-07-05, 18 min)
+
+**Made with it**
+
+- [auto_waaave live performance 6-8-20](https://www.youtube.com/watch?v=wLabwFTN71s) (2020-06-10, 44 min)
+- [auto_waaaves_live_improv](https://www.youtube.com/watch?v=7gi6hB0VgJc) (2020-06-14, 5 min)
+
+</details>
 
 ### AUTO_MESH
 - [Github - AUTO_MESH](https://github.com/ex-zee-ex/auto_mesh)
 - [AUTO_MESH Manual](https://andreijaycreativecoding.com/AUTO-MESH-MANUAL)
 
+<details>
+<summary>Videos (1)</summary>
+
+**Guides and demos**
+
+- [Auto Mesh introduction and Demo](https://www.youtube.com/watch?v=PbzLcQtyohw) (2021-12-02, 33 min)
+
+</details>
+
 ### CHROMATIC_ABBERATION
 - [Github - CHROMATIC_ABBERATION](https://github.com/ex-zee-ex/CHROMATIC_ABERRATION1_the_search_for_sasquatch)
 - [CHROMATIC_ABBERATION Manual](https://andreijaycreativecoding.com/CHROMATIC-ABERRATION-MANUAL)
+
+<details>
+<summary>Videos (5)</summary>
+
+**Guides and demos**
+
+- [VSERPI 1.5 updates: Introducing the New and Improved Chromatic Aberration: The Search For Sasquatch](https://www.youtube.com/watch?v=QBT0mDzNTHQ) (2022-01-27, 23 min)
+- [VSERPI 1.5 updates: Using Chromatic Aberration with Camera feedback](https://www.youtube.com/watch?v=t85WM4kZS0w) (2022-02-01, 44 min)
+- [artificial_life+chromatic_aberration+waaaave_pool](https://www.youtube.com/watch?v=Yj5dQnWgsXM) (2020-08-09, 54 min)
+- [Video Feedback Techniques 7: colorizers/solarizers and 'post processing' fx on video feedback](https://www.youtube.com/watch?v=WMa89exzgg8) (2021-01-26, 65 min)
+
+**Made with it**
+
+- [;oierhlaiuef](https://www.youtube.com/watch?v=iR61FPMeOvc) (2020-04-08, 6 min)
+
+</details>
 
 ### CONVOLUTIONAL CHAOS
 - [GITHUB - CONVOLUTIONAL CHAOS](https://github.com/ex-zee-ex/convolutional_chaos)
 - [CONVOLUTIONAL CHAOS MANUAL](https://andreijaycreativecoding.com/CONVOLUTIONAL-CHAOS-MANUAL)
 
+<details>
+<summary>Videos (1)</summary>
+
+**Guides and demos**
+
+- [VSERPI 1.5 updates: Welcome to Convolutional Chaos & master boot options!](https://www.youtube.com/watch?v=ztdeGePZ7jg) (2022-01-27, 11 min)
+
+</details>
+
 ### GENERIC GEOMETRICAL UTILITY
 - [Github - GENERIC GEOMETRICAL UTILITY](https://github.com/ex-zee-ex/GENERIC_GEOMETRY_UTILITY)
 - [GENERIC GEOMETRICAL UTILITY Manual](https://andreijaycreativecoding.com/GENERIC-GRAPHICS-UTILITY-MANUAL)
 
+<details>
+<summary>Videos (1)</summary>
+
+**Guides and demos**
+
+- [VSERPI 1.5 updates: Checking out a Generic Geometrical Utility](https://www.youtube.com/watch?v=INcZ4epwcf0) (2022-01-27, 11 min)
+
+</details>
+
 ### HELLO_WORD
 - [Github - HELLO_WORD](https://github.com/ex-zee-ex/HELLO_WORD)
 - [HELLO_WORD Manual](https://andreijaycreativecoding.com/HELLO-WORD-MANUAL)
+
+<details>
+<summary>Videos (1)</summary>
+
+**Guides and demos**
+
+- [VSERPI 1.5 updates: Introducing Hello Word _ & how to edit auto run configurations](https://www.youtube.com/watch?v=FkXYysgiMUw) (2022-01-27, 20 min)
+
+</details>
 
 ### PHOSPHORM
 - [GitHub - PHOSPHORM](https://github.com/ex-zee-ex/phosphorm)
 - [PHOSPHORM](https://andreijaycreativecoding.com/PHOSPHORM)
 - [PHOSPHORM Manual](https://andreijaycreativecoding.com/Phosphorm-Manual)
 
+<details>
+<summary>Videos (2)</summary>
+
+- Playlist: [Phosphorm demos](https://www.youtube.com/playlist?list=PLTAAQQpCNd6QCcE_TZ5b3xcWgS5r2NzuH)
+
+**Guides and demos**
+
+- [introduction to Phosphorm audio visual synth](https://www.youtube.com/watch?v=eVEV8KhYzuQ) (2020-05-21, 23 min)
+- [Exploring the Video Synthesis Ecosphere RPI episode 11: Phosphorm and Waaave Pool](https://www.youtube.com/watch?v=gavGoFHIHog) (2021-11-10, 28 min)
+
+</details>
+
 ### SUPER_HAECKEL_ADVENTURES_64
 - [Github - SUPER_HAECKEL_ADVENTURES_64](https://github.com/ex-zee-ex/SUPER_HAECKEL_ADVENTURES_64)
+
+<details>
+<summary>Videos (4)</summary>
+
+**Guides and demos**
+
+- [SUPER_HAECKEL_ADveneNTURES_^$64](https://www.youtube.com/watch?v=NyhKSoA6Uw0) (2020-03-25, 5 min)
+- [SUPER_HAECKEL_ADVENTURES_64+waaave_pool](https://www.youtube.com/watch?v=tA0iZ_aWaSw) (2020-03-25, 9 min)
+- [SUPER_HAECKEL_ADVENTURES_64 plus camera feedback](https://www.youtube.com/watch?v=JsjTfDGGkXY) (2020-03-25, 6 min)
+- [SUPER_HAECKEL_ADVENTURES_64 plus camera feedback more](https://www.youtube.com/watch?v=aWgWzkbR5fU) (2020-03-25, 7 min)
+
+</details>
 
 ### SPECTRAL_MESH
 - [GitHub - SPECTRAL_MESH](https://github.com/ex-zee-ex/spectral_mesh)
 - [SPECTRAL_MESH](https://andreijaycreativecoding.com/SPECTRAL_MESH)
 - [SPECTRAL_MESH Manual](https://andreijaycreativecoding.com/Spectral-Mesh-Manual)
 
+<details>
+<summary>Videos (9)</summary>
+
+- Playlist: [Spectral Mesh demos](https://www.youtube.com/playlist?list=PLTAAQQpCNd6SGOxYFaXQcYoRW-AfHxYNu)
+
+**Guides and demos**
+
+- [spectral mesh v 1.3 intro and walkthru](https://www.youtube.com/watch?v=NwRP-9H72ck) (2020-05-08, 34 min)
+- [Exploring the Video Synthesis Ecosphere RPI episode 9: Oscillator tips in Spectral Mesh](https://www.youtube.com/watch?v=2qfEWKwdayQ) (2021-09-22, 14 min)
+- [Spectral Mesh basic plus edition demo and controls](https://www.youtube.com/watch?v=Mi2tZzgqrKI) (2020-02-18, 13 min)
+- [Spectral_Mesh Demo0](https://www.youtube.com/watch?v=OOENycegIzM) (2020-02-17, 4 min)
+- [Artificial Life x Spectral Mesh](https://www.youtube.com/watch?v=vLedF2WYGso) (2020-07-01, 4 min)
+- [yreesytqesytsesyrgxes](https://www.youtube.com/watch?v=oZ_2q9kEpKY) (2020-03-05, 9 min)
+
+**Made with it**
+
+- [ULTRATERRESTRIAL](https://www.youtube.com/watch?v=Dd2UwP-fbVE) (2022-02-25, 64 min)
+- ["The Strange New Science of Chaos" A/V remix by Andrei Jay](https://www.youtube.com/watch?v=EkWsYGvnow4) (2021-02-22, 58 min)
+- [Kismet](https://www.youtube.com/watch?v=xVeVcH_1Wu0) (2020-07-16, 6 min)
+
+</details>
+
 ### TEMPORAL_VORTEX
 - [GITHUB - TEMPORAL_VORTEX](https://github.com/ex-zee-ex/temporal_vortex)
 - [TEMPORAL_VORTEX](https://andreijaycreativecoding.com/TEMPORAL-VORTEX-manual)
 
+<details>
+<summary>Videos (6)</summary>
+
+**Guides and demos**
+
+- [Temporal Vortex: what the heck is a time oscillator??!!??](https://www.youtube.com/watch?v=8yTZuYnXt3k) (2020-12-20, 64 min)
+- [Exploring the Video Synthesis Ecosphere RPI episode 6: WTF Temporal Vortex](https://www.youtube.com/watch?v=2xm3yR76xl4) (2021-07-28, 11 min)
+
+**Made with it**
+
+- [ULTRATERRESTRIAL](https://www.youtube.com/watch?v=Dd2UwP-fbVE) (2022-02-25, 64 min)
+- ["The Strange New Science of Chaos" A/V remix by Andrei Jay](https://www.youtube.com/watch?v=EkWsYGvnow4) (2021-02-22, 58 min)
+- [Andrei Jay NYE 2020 Live A/v "Borganismgasm"](https://www.youtube.com/watch?v=VZs7sTbTYqs) (2021-01-01, 32 min)
+- [trance form](https://www.youtube.com/watch?v=nM6tey_fHNQ) (2020-11-15, 4 min)
+
+</details>
 
 ## VSEJET (Video Synthesis Ecosphere Jetson Nano)
 These run on the Nvidia Jetson Nano 4gb w/ sd-card (non-emmc version). GRAVITY_WAAAVES is one of the more advanced instruments. WAAAVE_POOL HD also runs on the Jetson Nano. And the GRAVITY_WAAAVES sd-card also has WAAAVE_POOL as a boot option.
