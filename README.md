@@ -131,3 +131,8 @@ These run on the Nvidia Jetson Nano 4gb w/ sd-card (non-emmc version). GRAVITY_W
 - Contains master boot options for ARTIFICIAL_LIFE HD, TEMPORAL_VORTEX HD, CHROMATIC_ABBERATION HD, and The Search for Sasquatch HD.   
 - [WAAAVE_POOL HD Info](https://andreijaycreativecoding.com/WAAAVE_POOL-HD-INFO)
 - [VSEJET Manuals](https://andreijaycreativecoding.com/VSEJET-Manuals)
+
+### WAAAVE_POOL_HD LTD
+1080p limited run of WAAAVE_POOL HD, on pre-order since October 2026. The delay buffer is 4 seconds, compared to 8 seconds on the 720p WAAAVE_POOL HD. Andrei plans to release the 1080p image for public download in Q1 2027 ([FAQ](https://videosynthesisecosphere.com/faq)).
+- [WAAAVE_POOL HD LTD](https://videosynthesisecosphere.com/waaave-pool-hd-ltd)
+- [Buy WAAAVE_POOL HD LTD @ VideoSynthesisEcosphere.com](https://shop.videosynthesisecosphere.com/products/waaave-pool-hd-limited-edition)
