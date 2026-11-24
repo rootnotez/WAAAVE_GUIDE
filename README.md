@@ -1,20 +1,30 @@
 # WAAAVE_GUIDE
-Notes on Waave_Pool, Gravity_Waaaves, Video Synthesis Ecosphere for Raspberry Pi (VSERPI), Video Synthesis Ecosphere for Jetson (VSEJET), Video Synthesis Ecosphere Desktop (VSEDSK)
+Community notes on Andrei Jay's video synthesis instruments.
 
-# Andrei Jay's Instruments and Projects
-- Naming conventions: [current desktop names](/VSEDSK#names), [Andrei's older notes on nomenclature](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
+- [VSEDSK: desktop](#vsedsk-video-synthesis-ecosphere-desktop)
+- [VSERPI: Raspberry Pi](#vserpi-video-synthesis-ecosphere-raspberry-pi)
+- [VSEJET: Jetson Nano](#vsejet-video-synthesis-ecosphere-jetson-nano)
+- [General videos](#general-videos)
+
+Each instrument has its links, followed by a collapsed list of videos.
+
+## Andrei Jay
+
+### Websites
+- [VideoSynthesisEcosphere.com](https://videosynthesisecosphere.com/)
+- [Andrei Jay Creative Coding](https://andreijaycreativecoding.com/) (older site)
+- [About](https://andreijaycreativecoding.com/about-me)
 - [License](https://andreijaycreativecoding.com/open-source)
-- [About Page](https://andreijaycreativecoding.com/about-me)
-  - [VideoSynthesisEcosphere.com](https://videosynthesisecosphere.com/)
-  - [Andrei Jay Creative Coding](https://andreijaycreativecoding.com/)
-  - [Instagram - @andrei_jay_video_wizard](https://www.instagram.com/andrei_jay_video_wizard/)
-  - [Ko-fi - andreijay](https://ko-fi.com/andreijay)
-  - [Mastodon - @andrei_jay](https://autonomous.zone/@andrei_jay)
-  - [Patreon - c/andrei_jay](https://www.patreon.com/c/andrei_jay)
-  - [TikTok - @andrei_jay](https://www.tiktok.com/@andrei_jay)
-  - [YouTube - @andreijay](https://www.youtube.com/@andreijay)
- 
-Additional documentation for many of these video instruments are on Andrei Jay's Youtube. Videos are listed under the instrument they cover, in the collapsed `Videos` sections (matched 2026-11-23). Videos that use several instruments are listed under each one. Anything not specific to an instrument is in [General videos](#general-videos).  
+
+### Support Andrei
+- [Patreon](https://www.patreon.com/c/andrei_jay)
+- [Ko-fi](https://ko-fi.com/andreijay)
+
+### Social
+- [YouTube](https://www.youtube.com/@andreijay)
+- [Instagram](https://www.instagram.com/andrei_jay_video_wizard/)
+- [Mastodon](https://autonomous.zone/@andrei_jay)
+- [TikTok](https://www.tiktok.com/@andrei_jay)
 
 ## VSEDSK (Video Synthesis Ecosphere Desktop)
 VSEDSK is the umbrella name for the desktop (Windows and macOS) instruments. It currently has three: Waaave Pool DSK Pro, Gravity Waaaves DSK, and Waaave Pool DSK. Versions, system notes, and an explanation of the names are in [VSEDSK](/VSEDSK). The older VIDEO_WAAAVES suite also used this name and is now legacy.
