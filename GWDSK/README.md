@@ -1,7 +1,7 @@
-# GRAVITY_WAAAAVES DSK (Desktop)
-GW-DSK and WP-DSK have a similar codebase and user interface. This page collects technical information that should apply to both of them.
+# Gravity Waaaves DSK (GWDSK) and Waaave Pool DSK (WPDSK)
+Technical notes for both, since they share a similar codebase and interface. They may not apply to WPDSK Pro, which has a new engine. See [VSEDSK](/VSEDSK) for names and versions.
 
-## WAAAVE Pool DSK
+## Waaave Pool DSK (WPDSK)
 Send an email to waaavePoolRegister (at) valtown.email and register your copy of WPDSK to get access to bonus presets! 
 
 
