@@ -1,5 +1,5 @@
 # Gravity Waaaves DSK (GWDSK) and Waaave Pool DSK (WPDSK)
-GWDSK and WPDSK have a similar codebase and user interface. This page collects technical information that should apply to both of them. Waaave Pool DSK Pro has a new engine, so these notes may not apply to it. Names, versions, and downloads for all the desktop instruments are in [VSEDSK](/VSEDSK).
+Technical notes for both, since they share a similar codebase and interface. They may not apply to WPDSK Pro, which has a new engine. See [VSEDSK](/VSEDSK) for names and versions.
 
 ## Waaave Pool DSK (WPDSK)
 Send an email to waaavePoolRegister (at) valtown.email and register your copy of WPDSK to get access to bonus presets! 
