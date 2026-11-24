@@ -473,18 +473,21 @@ Slitscan processor: different parts of the picture show different moments in tim
 
 </details>
 
-## VSEJET (Video Synthesis Ecosphere Jetson Nano)
-These run on the Nvidia Jetson Nano 4gb w/ sd-card (non-emmc version). GRAVITY_WAAAVES is one of the more advanced instruments. WAAAVE_POOL HD also runs on the Jetson Nano. And the GRAVITY_WAAAVES sd-card also has WAAAVE_POOL as a boot option.
-- [VSEJET Manuals](https://andreijaycreativecoding.com/VSEJET-Manuals)
-- [VSEJET DIY INSTRUCTIONS](https://andreijaycreativecoding.com/VSEJET-DIY-INSTRUCTIONS)
-- [VSEJET Images](https://andreijaycreativecoding.com/VSEJET-images)
-- [Midi Controller Overlays](/midi-controller-overlays)
-  
+## VSEJET (Jetson Nano)
+Video Synthesis Ecosphere Jetson Nano: standalone HD video instruments that run on the Nvidia Jetson Nano 4GB with an SD card slot (not the eMMC version). Andrei now sells them only in occasional limited runs, but you can build your own.
+
+There are two SD card images, GRAVITY_WAAAVES and WAAAVE_POOL_HD. Each includes other instruments that you pick with its master boot options.
+- [VSEJET website](https://videosynthesisecosphere.com/vsejet)
+- [Manuals](https://andreijaycreativecoding.com/VSEJET-Manuals)
+- [DIY instructions](https://andreijaycreativecoding.com/VSEJET-DIY-INSTRUCTIONS)
+- [SD card images](https://andreijaycreativecoding.com/VSEJET-images)
+- [MIDI controller overlays](/midi-controller-overlays)
+- [Jetson Nano hardware notes](/VSEJET)
+
 ### GRAVITY_WAAAVES
-Contains master boot options for WAAAVEPOOL HD, ARTIFICIAL_LIFE HD, TEMPORAL_VORTEX HD, and CHROMATIC_ABBERATION HD.
-- [GRAVITY_WAAAVES](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-INFO)
-- [GitHub - GRAVITY_WAAAVES_APP](https://github.com/ex-zee-ex/gravity_waaaves_app)
-- [VSEJET Manuals](https://andreijaycreativecoding.com/VSEJET-Manuals)
+Two channel video mixer with two 4 second delay lines, made for live performance. Needs a separate screen for its control window. The card also boots WAAAVE_POOL_HD, ARTIFICIAL_LIFE HD, TEMPORAL_VORTEX HD, and CHROMATIC_ABERRATION HD.
+- [Info](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-INFO)
+- [Source code](https://github.com/ex-zee-ex/gravity_waaaves_app)
 
 <details>
 <summary>Videos (12)</summary>
@@ -513,9 +516,8 @@ Contains master boot options for WAAAVEPOOL HD, ARTIFICIAL_LIFE HD, TEMPORAL_VOR
 </details>
 
 ### WAAAVE_POOL_HD
-Contains master boot options for ARTIFICIAL_LIFE HD, TEMPORAL_VORTEX HD, CHROMATIC_ABBERATION HD, and The Search for Sasquatch HD.
-- [WAAAVE_POOL HD Info](https://andreijaycreativecoding.com/WAAAVE_POOL-HD-INFO)
-- [VSEJET Manuals](https://andreijaycreativecoding.com/VSEJET-Manuals)
+WAAAVE_POOL at 1280x720 with an 8 second delay. The card also boots ARTIFICIAL_LIFE HD, TEMPORAL_VORTEX HD, and CHROMATIC_ABERRATION HD.
+- [Info](https://andreijaycreativecoding.com/WAAAVE_POOL-HD-INFO)
 
 <details>
 <summary>Videos (7)</summary>
@@ -538,9 +540,9 @@ Contains master boot options for ARTIFICIAL_LIFE HD, TEMPORAL_VORTEX HD, CHROMAT
 </details>
 
 ### WAAAVE_POOL_HD LTD
-Limited 1080p run of WAAAVE_POOL HD with a 4 second delay buffer (the 720p version has 8). A public image is planned for [Q1 2027](https://videosynthesisecosphere.com/faq).
-- [WAAAVE_POOL HD LTD](https://videosynthesisecosphere.com/waaave-pool-hd-ltd)
-- [Buy WAAAVE_POOL HD LTD @ VideoSynthesisEcosphere.com](https://shop.videosynthesisecosphere.com/products/waaave-pool-hd-limited-edition)
+Limited 1080p run of WAAAVE_POOL_HD with a 4 second delay. A public image is planned for [Q1 2027](https://videosynthesisecosphere.com/faq).
+- [Info](https://videosynthesisecosphere.com/waaave-pool-hd-ltd)
+- [Buy](https://shop.videosynthesisecosphere.com/products/waaave-pool-hd-limited-edition)
 
 <details>
 <summary>Videos (1)</summary>
