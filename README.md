@@ -554,7 +554,7 @@ Limited 1080p run of WAAAVE_POOL_HD with a 4 second delay. A public image is pla
 </details>
 
 ## General videos
-Video feedback techniques, video mixer guides, and other video art software.
+Andrei's videos on video feedback techniques, video mixers, analog signals, and other video software.
 
 <details>
 <summary>Videos (33)</summary>
@@ -611,3 +611,21 @@ Video feedback techniques, video mixer guides, and other video art software.
 - [hydra class 08 18 20](https://www.youtube.com/watch?v=0zCxBVsy0dc) (2020-08-19, 60 min)
 
 </details>
+
+## Andrei Jay
+
+### Websites
+- [VideoSynthesisEcosphere.com](https://videosynthesisecosphere.com/)
+- [Andrei Jay Creative Coding](https://andreijaycreativecoding.com/) (older site)
+- [About](https://andreijaycreativecoding.com/about-me)
+- [License](https://andreijaycreativecoding.com/open-source)
+
+### Support Andrei
+- [Patreon](https://www.patreon.com/c/andrei_jay)
+- [Ko-fi](https://ko-fi.com/andreijay)
+
+### Social
+- [YouTube](https://www.youtube.com/@andreijay)
+- [Instagram](https://www.instagram.com/andrei_jay_video_wizard/)
+- [Mastodon](https://autonomous.zone/@andrei_jay)
+- [TikTok](https://www.tiktok.com/@andrei_jay)
