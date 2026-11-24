@@ -14,7 +14,7 @@ Notes on Waave_Pool, Gravity_Waaaves, Video Synthesis Ecosphere for Raspberry Pi
   - [TikTok - @andrei_jay](https://www.tiktok.com/@andrei_jay)
   - [YouTube - @andreijay](https://www.youtube.com/@andreijay)
  
-Additional documentation for many of these video instruments are on Andrei Jay's Youtube.  
+Additional documentation for many of these video instruments are on Andrei Jay's Youtube. Videos are listed under the instrument they cover, in the collapsed `Videos` sections (matched 2026-11-23). Videos that use several instruments are listed under each one. Anything not specific to an instrument is in [General videos](#general-videos).  
 
 ## VSEDSK (Video Synthesis Ecosphere Desktop)
 VSEDSK is the umbrella name for the desktop (Windows and macOS) instruments. It currently has three: Waaave Pool DSK Pro, Gravity Waaaves DSK, and Waaave Pool DSK. Versions, system notes, and an explanation of the names are in [VSEDSK](/VSEDSK). The older VIDEO_WAAAVES suite also used this name and is now legacy.
@@ -486,5 +486,64 @@ These run on the Nvidia Jetson Nano 4gb w/ sd-card (non-emmc version). GRAVITY_W
 **Guides and demos**
 
 - [Waaave Pool HD LTD edition: What the Heck is THis??](https://www.youtube.com/watch?v=kfPE9eIRR3w) (2026-11-06, 71 min)
+
+</details>
+
+## General videos
+Video feedback technique, video mixers, signals, and other software. Not specific to one instrument.
+
+<details>
+<summary>Videos (33)</summary>
+
+- Playlist: [Video feedback techniques](https://www.youtube.com/playlist?list=PLTAAQQpCNd6Ri-dYis3s7TAjSxWEetB9o)
+- Playlist: [Video mixer guides](https://www.youtube.com/playlist?list=PLTAAQQpCNd6SsMv4FAbpgF3l0vBU7iPfg)
+- Playlist: [Video signals AMA](https://www.youtube.com/playlist?list=PLTAAQQpCNd6QuNQ0C86YyWk4uXD6Fp6yF)
+- Playlist: [Lectures and talks](https://www.youtube.com/playlist?list=PLTAAQQpCNd6Q5B8Wtk-99Lsbiyy5iTh4u)
+- Playlist: [Video Synthesis Tarot](https://www.youtube.com/playlist?list=PLTAAQQpCNd6QOYGgVjOZezk_c7xcZysEo)
+
+**Video feedback techniques**
+
+- [video feedback techniques 1 the basics: part 1](https://www.youtube.com/watch?v=mp7QVMx2zBY) (2019-10-09, 23 min)
+- [video feedback techniques 1 the basics: part 2](https://www.youtube.com/watch?v=TZofjUsKvvE) (2019-10-09, 26 min)
+- [video feedback techniques 1 the basics: part 3](https://www.youtube.com/watch?v=5rFXOaW_d-M) (2019-10-09, 21 min)
+- [video feedback techniques 2 HSB: part 1](https://www.youtube.com/watch?v=LOeLpCY3Ln0) (2019-10-27, 28 min)
+- [video feedback techniques 2 part 2 LCDs, signal chains, and keying](https://www.youtube.com/watch?v=O8ttX91X5cc) (2019-10-27, 25 min)
+- [video feedback techniques 2: part 3 addendum](https://www.youtube.com/watch?v=Hd3XPLfAjZg) (2019-10-27, 28 min)
+- [video feedback techniques 3: digital cameras and lcds, splitting signals](https://www.youtube.com/watch?v=qU-k7J-Chy4) (2019-10-27, 24 min)
+- [video feedback techniques 4 part 1: PSYCHOKENSIES MODE](https://www.youtube.com/watch?v=xGVMxSmR5qE) (2020-01-30, 32 min)
+- [Video Feedback Techniques 4 part 2: PSYCKONEKISIS mode](https://www.youtube.com/watch?v=JW1y_6aqSZQ) (2020-01-30, 27 min)
+- [video feedback techniques 4 part3 SIKOKEiNSES MODE](https://www.youtube.com/watch?v=sFgS3WkPVwE) (2020-01-30, 33 min)
+- [Video Feedback Techniques 5: 2 cameras part 1](https://www.youtube.com/watch?v=PkJk278kCG4) (2020-04-25, 27 min)
+- [Video Feedback Techniques 5: 2 cameras part 2](https://www.youtube.com/watch?v=O1DoXyZVrJU) (2020-04-25, 29 min)
+- [Video Feedback Techniques 5: 2 cameras part 3](https://www.youtube.com/watch?v=JcnwL8uRs9c) (2020-04-25, 28 min)
+- [Video Feedback Techniques 6: external video processors and enhancers part 1](https://www.youtube.com/watch?v=Xt-IsoW9MgA) (2020-07-24, 47 min)
+- [Video Feedback Techniques 6: external video processors and enhancers part 2](https://www.youtube.com/watch?v=vUCL902iSO4) (2020-07-24, 25 min)
+- [Video Feedback Techniques 7: colorizers/solarizers and 'post processing' fx on video feedback](https://www.youtube.com/watch?v=WMa89exzgg8) (2021-01-26, 65 min)
+- [Video Feedback Techniques 8: Getting Practical (patreon video april 2024)](https://www.youtube.com/watch?v=lEZx5cOTNzg) (2024-04-27, 50 min)
+
+**Video mixer guides**
+
+- [video mixer guide: panasonic mx-30](https://www.youtube.com/watch?v=uRN4In4n_Kk) (2026-07-14, 28 min)
+- [Video Mixer Guides: panasonic mx-50](https://www.youtube.com/watch?v=5QKaLSlbIek) (2026-07-14, 29 min)
+- [video mixer guide: panasonic mx-70](https://www.youtube.com/watch?v=HVC-RmDq-WQ) (2026-08-03, 40 min)
+- [video mixer guide: videonics mx-1](https://www.youtube.com/watch?v=5ffYzRGL84I) (2026-07-14, 32 min)
+- [video mixer guide: edirol v-4](https://www.youtube.com/watch?v=bjlFtHz_xJs) (2026-07-14, 29 min)
+
+**Signals, talks, and performance**
+
+- [Introduction to Analog Video Signals](https://www.youtube.com/watch?v=VY4tbBpCGAA) (2023-05-21, 89 min)
+- [Fubar presents: Myth and Magic of Analog and Digital](https://www.youtube.com/watch?v=pgxSvd9PKfY) (2021-10-05, 50 min)
+- [patreon wage labor video February 2024: VJ tips and tricks & history of Jeff Minter's visualizers](https://www.youtube.com/watch?v=zZjjOqO-5lI) (2024-02-21, 75 min)
+
+**Other software (Vsynth, Hydra, OBS)**
+
+- [digital video synthesis in vsynth: a polyphase portal class](https://www.youtube.com/watch?v=EXDxGz3gtfg) (2024-05-21, 11 min)
+- [really really basic ping pong buffer video feedback biz in obs studio](https://www.youtube.com/watch?v=JM_3YSS7puE) (2024-01-11, 15 min)
+- [vsynth workshop 07 14 20 modulation and feedback](https://www.youtube.com/watch?v=FbtHGmjGVFM) (2020-07-16, 59 min)
+- [vsynth class 08 04 20](https://www.youtube.com/watch?v=_HrvuoxeR4I) (2020-08-05, 58 min)
+- [vsynth class 08 25 20](https://www.youtube.com/watch?v=phwwox5Lctw) (2020-08-26, 59 min)
+- [hydra workshop 07_12_20: modulation and feedback](https://www.youtube.com/watch?v=fVQxY-OUglI) (2020-07-16, 60 min)
+- [hydra class 07 28 20](https://www.youtube.com/watch?v=RIZLGMyTbbs) (2020-07-29, 58 min)
+- [hydra class 08 18 20](https://www.youtube.com/watch?v=0zCxBVsy0dc) (2020-08-19, 60 min)
 
 </details>
