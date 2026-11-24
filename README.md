@@ -6,8 +6,6 @@ Community notes on Andrei Jay's video synthesis instruments.
 - [VSEJET: Jetson Nano](#vsejet-video-synthesis-ecosphere-jetson-nano)
 - [General videos](#general-videos)
 
-Each instrument has its links, followed by a collapsed list of videos.
-
 ## Andrei Jay
 
 ### Websites
@@ -29,7 +27,7 @@ Each instrument has its links, followed by a collapsed list of videos.
 ## VSEDSK (Video Synthesis Ecosphere Desktop)
 Software for Windows and macOS.
 - [Names and versions](/VSEDSK)
-- [VSEDSK](https://videosynthesisecosphere.com/vsedsk)
+- [VSEDSK website](https://videosynthesisecosphere.com/vsedsk)
 - [Downloads and Manuals](https://videosynthesisecosphere.com/downloads)
 - [FAQ](https://videosynthesisecosphere.com/faq)
 - [Support](https://videosynthesisecosphere.com/support)
@@ -501,7 +499,7 @@ Limited 1080p run of WAAAVE_POOL HD with a 4 second delay buffer (the 720p versi
 </details>
 
 ## General videos
-Videos that aren't about one instrument.
+Video feedback techniques, video mixer guides, and other video art software.
 
 <details>
 <summary>Videos (33)</summary>

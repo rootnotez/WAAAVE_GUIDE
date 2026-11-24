@@ -15,7 +15,7 @@ Names and versions of Andrei Jay's desktop instruments. Links and videos are in 
 - On older pages, VSEDSK means VIDEO_WAAAVES. [Andrei explains the history](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy).
 
 ## Versions
-From the [downloads page](https://videosynthesisecosphere.com/downloads), 2026-11-23.
+Current as of 2026-11-23. Check the [downloads page](https://videosynthesisecosphere.com/downloads) for newer releases.
 
 | Instrument | Windows | macOS | Cost |
 |---|---|---|---|
@@ -28,18 +28,18 @@ From the [downloads page](https://videosynthesisecosphere.com/downloads), 2026-1
 - [GWDSK manual v1.2](https://freight.cargo.site/m/Z2736247565229516632481013828098/gravityWaaaves_DSK_Manual1_2.pdf) (2026-01-08)
 
 ## WPDSK Pro versions
-From the [WPDSK Pro page](https://videosynthesisecosphere.com/waaave-pool-dsk-pro) 2026-11-23. The v0.2.0 beta may not have everything listed.
+Features of each version, from the [WPDSK Pro page](https://videosynthesisecosphere.com/waaave-pool-dsk-pro). The v0.2.0 beta may not have all of them.
 
 | | Free | Basic | Advanced |
 |---|---|---|---|
 | Source plugins | Fixed chain | 4 slots | 8 slots |
 | Delay plugins | Fixed chain | 4 slots | 8 slots |
-| Modulation sources | Not listed | 1 video oscillator, 1 general video source, 4 LFOs | 2 video oscillators, 2 general video sources, 8 LFOs |
+| Modulation sources | - | 1 video oscillator, 1 general video source, 4 LFOs | 2 video oscillators, 2 general video sources, 8 LFOs |
 | Resolution and frame rate | 800x600 at 60fps | Up to 1920x1080 at 60fps | Up to what your system can handle |
 | Delay length | 1 second | Customizable | Customizable |
-| Presets | Not listed | Per plugin, per channel, and global. Small selection included | Same as Basic, with many more included |
-| Video loops | Not listed | Small selection | Many |
-| MIDI | Forthcoming (2026-06-24) | Same as Free | Same as Free |
+| Presets | - | Per plugin, per channel, and global. Small selection included | Same as Basic, with many more included |
+| Video loops | - | Small selection | Many |
+| MIDI | Coming | Coming | Coming |
 
 ## Support
 - [Official support form](https://videosynthesisecosphere.com/support)
