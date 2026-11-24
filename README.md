@@ -18,14 +18,15 @@ This page lists every instrument with its official pages, manual, source code, a
 - **Build your own:** follow the DIY links under [VSERPI](#vserpi-raspberry-pi) or [VSEJET](#vsejet-jetson-nano).
 - **Learn video feedback:** watch the [general videos](#general-videos).
 - **Fix a problem:** see [Getting help](#getting-help).
+- **Follow or support Andrei:** see [Andrei Jay](#andrei-jay).
 
 ## Find an instrument
 
 | What it does | VSEDSK (desktop) | VSERPI (Raspberry Pi) | VSEJET (Jetson Nano) |
 |---|---|---|---|
-| Video delay and feedback | [WPDSK Pro](#waaave-pool-dsk-pro-wpdsk-pro), [WPDSK](#waaave-pool-dsk-wpdsk) | [WAAAVE_POOL](#waaave_pool) | [WAAAVE_POOL_HD](#waaave_pool_hd), [LTD](#waaave_pool_hd-ltd) |
+| Video delay and feedback | [Waaave Pool DSK Pro](#waaave-pool-dsk-pro-wpdsk-pro), [Waaave Pool DSK](#waaave-pool-dsk-wpdsk) | [WAAAVE_POOL](#waaave_pool) | [WAAAVE_POOL_HD](#waaave_pool_hd), [WAAAVE_POOL_HD LTD](#waaave_pool_hd-ltd) |
 | Video delay and feedback, audio reactive | | [AUTO_WAAAVE](#auto_waaave) | |
-| Two channel mixer with two delay lines | [GWDSK](#gravity-waaaves-dsk-gwdsk) | | [GRAVITY_WAAAVES](#gravity_waaaves) |
+| Two channel mixer with two delay lines | [Gravity Waaaves DSK](#gravity-waaaves-dsk-gwdsk) | | [GRAVITY_WAAAVES](#gravity_waaaves) |
 | Chaotic video oscillators | | [ARTIFICIAL_LIFE](#artificial_life) | [HD version](#gravity_waaaves) |
 | Scan processing | | [SPECTRAL_MESH](#spectral_mesh) | |
 | Scan processing, audio reactive | | [AUTO_MESH](#auto_mesh) | |
