@@ -424,12 +424,67 @@ These run on the Nvidia Jetson Nano 4gb w/ sd-card (non-emmc version). GRAVITY_W
 - [GitHub - GRAVITY_WAAAVES_APP](https://github.com/ex-zee-ex/gravity_waaaves_app)
 - [VSEJET Manuals](https://andreijaycreativecoding.com/VSEJET-Manuals)
 
+<details>
+<summary>Videos (12)</summary>
+
+- Playlist: [GRAVITY WAAAVES](https://www.youtube.com/playlist?list=PLTAAQQpCNd6QheM2xVGeRzz4nJ9G5Ast9)
+- Playlist: [VSEJET](https://www.youtube.com/playlist?list=PLTAAQQpCNd6QpSbuFFNtCGrLHLxoYmip4)
+
+**Guides and demos**
+
+- [a formal introduction to Gravity_Waaaves](https://www.youtube.com/watch?v=C-LE47vDiZg) (2022-11-09, 33 min)
+- [gravity waaaves "vector feedback mode"](https://www.youtube.com/watch?v=hgEMUzqPZBE) (2023-11-25, 44 min)
+- [gravity waaaves mixing and processing modes](https://www.youtube.com/watch?v=_hPIuHl1t6E) (2024-01-10, 24 min)
+- [gravity waaaves doing some weird stuffs](https://www.youtube.com/watch?v=2Be6AMaHOA0) (2024-01-14, 19 min)
+- [gravity waaaves patreon wage labor video 1-30](https://www.youtube.com/watch?v=50Aw9Pk1xuA) (2024-01-31, 52 min)
+- [gravity waaaves: presets and macros](https://www.youtube.com/watch?v=0EwN1oaUCmM) (2024-05-23, 39 min)
+- [Video Waaaves, Gravity Waaaves, and thoughts on Work and Jobs updates](https://www.youtube.com/watch?v=qd7IaJgaYxI) (2022-05-27, 34 min)
+
+**Made with it**
+
+- [andrei jay live a/v minneapolis 7-27-24](https://www.youtube.com/watch?v=9aMPgJV5qWY) (2024-09-26, 31 min)
+- [XZX: psychedelic electronic music from the early 21st century](https://www.youtube.com/watch?v=MIdXXYiwd4I) (2024-04-12, 105 min)
+- [XZX "arrival"](https://www.youtube.com/watch?v=q2AgWBK0pqU) (2023-11-28, 42 min)
+- [synthetic forest performance at coaxial arts 10-31-23](https://www.youtube.com/watch?v=_ByBUr57YVo) (2023-11-26, 25 min)
+- [Reality Orp "Out Of Phase"](https://www.youtube.com/watch?v=W3fyn56bgJc) (2023-05-29, 30 min)
+
+</details>
+
 ### WAAAVE_POOL_HD
 - Contains master boot options for ARTIFICIAL_LIFE HD, TEMPORAL_VORTEX HD, CHROMATIC_ABBERATION HD, and The Search for Sasquatch HD.   
 - [WAAAVE_POOL HD Info](https://andreijaycreativecoding.com/WAAAVE_POOL-HD-INFO)
 - [VSEJET Manuals](https://andreijaycreativecoding.com/VSEJET-Manuals)
 
+<details>
+<summary>Videos (7)</summary>
+
+- Playlist: [WAAAVE POOL HD](https://www.youtube.com/playlist?list=PLTAAQQpCNd6QexJNnGEO1oLEWGEAjnTkv)
+
+**Guides and demos**
+
+- [Introducing Waaave Pool HD](https://www.youtube.com/watch?v=zUDO97-nNRM) (2023-11-25, 23 min)
+- [Waaave Pool HD getting into the details & using feedback oscillators](https://www.youtube.com/watch?v=BQFd6qsyRqQ) (2023-12-03, 42 min)
+- [Waaave Pool HD long delays examples](https://www.youtube.com/watch?v=d3HLSAJFqPA) (2024-01-12, 28 min)
+- [patreon wage labor: WPHD, ALHD, TVHD, and the VSEJET ports!](https://www.youtube.com/watch?v=LwYg85fwVes) (2024-04-12, 59 min)
+
+**Made with it (strobe warning)**
+
+- [DJ TURD BURGLAR "100 TRANCE COUNTRY HITS"](https://www.youtube.com/watch?v=536nOgF6Jd0) (2026-05-15, 48 min)
+- [DJ TURD BURGLAR "SPREAD SPECTRUM](https://www.youtube.com/watch?v=D8XAND815Gg) (2026-05-15, 37 min)
+- [DJ TURD BURGLAR "LANGUAGE OF BIRDS"](https://www.youtube.com/watch?v=PkVh0X-ktTQ) (2026-05-15, 47 min)
+
+</details>
+
 ### WAAAVE_POOL_HD LTD
 1080p limited run of WAAAVE_POOL HD, on pre-order since October 2026. The delay buffer is 4 seconds, compared to 8 seconds on the 720p WAAAVE_POOL HD. Andrei plans to release the 1080p image for public download in Q1 2027 ([FAQ](https://videosynthesisecosphere.com/faq)).
 - [WAAAVE_POOL HD LTD](https://videosynthesisecosphere.com/waaave-pool-hd-ltd)
 - [Buy WAAAVE_POOL HD LTD @ VideoSynthesisEcosphere.com](https://shop.videosynthesisecosphere.com/products/waaave-pool-hd-limited-edition)
+
+<details>
+<summary>Videos (1)</summary>
+
+**Guides and demos**
+
+- [Waaave Pool HD LTD edition: What the Heck is THis??](https://www.youtube.com/watch?v=kfPE9eIRR3w) (2026-11-06, 71 min)
+
+</details>
