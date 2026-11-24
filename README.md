@@ -430,7 +430,7 @@ These run on the Nvidia Jetson Nano 4gb w/ sd-card (non-emmc version). GRAVITY_W
 - [Midi Controller Overlays](/midi-controller-overlays)
   
 ### GRAVITY_WAAAVES
-- Contains master boot options for WAAAVEPOOL HD, ARTIFICIAL_LIFE HD, TEMPORAL_VORTEX HD, CHROMATIC_ABBERATION HD 
+Contains master boot options for WAAAVEPOOL HD, ARTIFICIAL_LIFE HD, TEMPORAL_VORTEX HD, and CHROMATIC_ABBERATION HD.
 - [GRAVITY_WAAAVES](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-INFO)
 - [GitHub - GRAVITY_WAAAVES_APP](https://github.com/ex-zee-ex/gravity_waaaves_app)
 - [VSEJET Manuals](https://andreijaycreativecoding.com/VSEJET-Manuals)
@@ -462,7 +462,7 @@ These run on the Nvidia Jetson Nano 4gb w/ sd-card (non-emmc version). GRAVITY_W
 </details>
 
 ### WAAAVE_POOL_HD
-- Contains master boot options for ARTIFICIAL_LIFE HD, TEMPORAL_VORTEX HD, CHROMATIC_ABBERATION HD, and The Search for Sasquatch HD.   
+Contains master boot options for ARTIFICIAL_LIFE HD, TEMPORAL_VORTEX HD, CHROMATIC_ABBERATION HD, and The Search for Sasquatch HD.
 - [WAAAVE_POOL HD Info](https://andreijaycreativecoding.com/WAAAVE_POOL-HD-INFO)
 - [VSEJET Manuals](https://andreijaycreativecoding.com/VSEJET-Manuals)
 
@@ -487,7 +487,7 @@ These run on the Nvidia Jetson Nano 4gb w/ sd-card (non-emmc version). GRAVITY_W
 </details>
 
 ### WAAAVE_POOL_HD LTD
-1080p limited run of WAAAVE_POOL HD, on pre-order since October 2026. The delay buffer is 4 seconds, compared to 8 seconds on the 720p WAAAVE_POOL HD. Andrei plans to release the 1080p image for public download in Q1 2027 ([FAQ](https://videosynthesisecosphere.com/faq)).
+Limited 1080p run of WAAAVE_POOL HD with a 4 second delay buffer (the 720p version has 8). A public image is planned for [Q1 2027](https://videosynthesisecosphere.com/faq).
 - [WAAAVE_POOL HD LTD](https://videosynthesisecosphere.com/waaave-pool-hd-ltd)
 - [Buy WAAAVE_POOL HD LTD @ VideoSynthesisEcosphere.com](https://shop.videosynthesisecosphere.com/products/waaave-pool-hd-limited-edition)
 
@@ -501,7 +501,7 @@ These run on the Nvidia Jetson Nano 4gb w/ sd-card (non-emmc version). GRAVITY_W
 </details>
 
 ## General videos
-Video feedback technique, video mixers, signals, and other software. Not specific to one instrument.
+Videos that aren't about one instrument.
 
 <details>
 <summary>Videos (33)</summary>
