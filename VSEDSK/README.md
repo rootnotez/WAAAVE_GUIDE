@@ -1,5 +1,5 @@
 # VSEDSK - Video Synthesis Ecosphere Desktop
-Names and versions of Andrei Jay's desktop instruments. Links and videos are in the [main README](/README.md#vsedsk-video-synthesis-ecosphere-desktop).
+Names and versions of Andrei Jay's desktop instruments. Links and videos are in the [main README](/README.md#vsedsk-desktop).
 
 ## Names
 

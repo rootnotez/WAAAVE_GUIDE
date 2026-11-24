@@ -54,19 +54,16 @@ Check the [official FAQ](https://videosynthesisecosphere.com/faq) first.
 - [MIDI controller overlays](/midi-controller-overlays): printable overlays and mappings for the Korg nanoKONTROL2 and Novation Launch Control XL
 - [Manuals](/manuals): PDF copies for GRAVITY_WAAAVES and WAAAVE_POOL_HD
 
-## VSEDSK (Video Synthesis Ecosphere Desktop)
-Software for Windows and macOS.
-- [Names and versions](/VSEDSK)
+## VSEDSK (desktop)
+Video Synthesis Ecosphere Desktop: software for Windows and macOS. On older pages, VSEDSK means [VIDEO_WAAAVES](#video_waaaves-legacy). [Compare names and versions](/VSEDSK).
 - [VSEDSK website](https://videosynthesisecosphere.com/vsedsk)
-- [Downloads and Manuals](https://videosynthesisecosphere.com/downloads)
-- [FAQ](https://videosynthesisecosphere.com/faq)
-- [Support](https://videosynthesisecosphere.com/support)
+- [Downloads and manuals](https://videosynthesisecosphere.com/downloads)
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLTAAQQpCNd6TWnhnUpDyA_kKPMMIZ9qA-)
 
 ### WAAAVE POOL DSK PRO (WPDSK Pro)
 Semi-modular video synthesizer based on Waaave Pool, with a new engine. Free, Basic, and Advanced versions.
-- [WAAAVE POOL DSK PRO](https://videosynthesisecosphere.com/waaave-pool-dsk-pro)
-- [WAAAVE POOL DSK PRO Kickstarter](https://www.kickstarter.com/projects/andreijay/waaave-pool-dsk-pro)
+- [Info and downloads](https://videosynthesisecosphere.com/waaave-pool-dsk-pro)
+- [Kickstarter](https://www.kickstarter.com/projects/andreijay/waaave-pool-dsk-pro)
 
 <details>
 <summary>Videos (3)</summary>
@@ -82,12 +79,12 @@ Semi-modular video synthesizer based on Waaave Pool, with a new engine. Free, Ba
 </details>
 
 ### GRAVITY WAAAVES DSK (GWDSK)
-Paid desktop port of the VSEJET GRAVITY_WAAAVES, with added media players and presets.
-- [GRAVITY WAAAVES DSK](https://videosynthesisecosphere.com/gravity-waaaves-dsk)
-- [Buy GRAVITY WAAAVES DSK @ VideoSynthesisEcosphere.com](https://shop.videosynthesisecosphere.com/products/gravity-waaaves-dsk)
-- [GRAVITY WAAAVES DSK (old site)](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-DSK)
-- [GRAVITY WAAAVES DSK Kickstarter](https://www.kickstarter.com/projects/gravitywaaaves/gravity-waaaves-dsk)
-- [GWDSK community notes](/GWDSK)
+Two channel video mixer with two delay lines. Paid desktop port of the VSEJET GRAVITY_WAAAVES, with added media players and presets.
+- [Info](https://videosynthesisecosphere.com/gravity-waaaves-dsk)
+- [Buy](https://shop.videosynthesisecosphere.com/products/gravity-waaaves-dsk)
+- [Community notes](/GWDSK)
+- [Kickstarter](https://www.kickstarter.com/projects/gravitywaaaves/gravity-waaaves-dsk)
+- [Info (old site)](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-DSK)
 
 <details>
 <summary>Videos (5)</summary>
@@ -108,8 +105,9 @@ Paid desktop port of the VSEJET GRAVITY_WAAAVES, with added media players and pr
 </details>
 
 ### WAAAVE POOL DSK (WPDSK)
-Free desktop port of the VSERPI WAAAVE_POOL.
-- [WAAAVE POOL DSK](https://videosynthesisecosphere.com/waaave-pool-dsk)
+Video delay and feedback. Free desktop port of the VSERPI WAAAVE_POOL.
+- [Info](https://videosynthesisecosphere.com/waaave-pool-dsk)
+- [Community notes](/GWDSK)
 
 <details>
 <summary>Videos (3)</summary>
@@ -125,13 +123,13 @@ Free desktop port of the VSERPI WAAAVE_POOL.
 </details>
 
 ### VIDEO_WAAAVES (legacy)
-The original open source desktop suite, built from source with openFrameworks.
-- [VSEDSKP](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP)
-- [VSEDSKP - Legacy](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
-- [VSEDSKP - Getting Started](https://andreijaycreativecoding.com/VIDEO-WAAAVES-GETTING-STARTED)
-- [VSEDSKP - How to use NDI](https://andreijaycreativecoding.com/VIDEO-WAAAVES-how-to-use-NDI)
-- [GitHub - VIDEO_WAAAVES_2.7](https://github.com/ex-zee-ex/VIDEO_WAAAVES_2.718)
-- [GitHub - VIDEO_WAAAVES_2.5_SUITE](https://github.com/ex-zee-ex/VIDEO_WAAAVES_2.5_suite)
+The original open source desktop suite, also called VSEDSKP. You build it from source with openFrameworks.
+- [Info](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP)
+- [History and names](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
+- [Getting started](https://andreijaycreativecoding.com/VIDEO-WAAAVES-GETTING-STARTED)
+- [How to use NDI](https://andreijaycreativecoding.com/VIDEO-WAAAVES-how-to-use-NDI)
+- [Source code 2.718](https://github.com/ex-zee-ex/VIDEO_WAAAVES_2.718)
+- [Source code 2.5](https://github.com/ex-zee-ex/VIDEO_WAAAVES_2.5_suite)
 
 <details>
 <summary>Videos (25)</summary>
