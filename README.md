@@ -1,17 +1,13 @@
 # WAAAVE_GUIDE
-A community guide to the video synthesizers made by [Andrei Jay](https://andreijaycreativecoding.com/about-me). These instruments generate and process video in real time. They delay, mix, key, and warp it, and feed it back into itself. People use them for video art and live performance, with cameras, video mixers, other video gear, or no video input at all.
+This is a community guide to the video instruments made by [Andrei Jay](#andrei-jay), including WAAAVE_POOL, GRAVITY_WAAAVES, and the rest of the Video Synthesis Ecosphere (VSE). The instruments generate and process video in real time: they delay it, mix it, key it, warp it, and feed it back into itself. People use them for video art and live performance, with cameras, video mixers, and other video gear, and some of them need no video input at all.
 
-There are three families, named for what they run on. VSE stands for Video Synthesis Ecosphere.
+The instruments come in three families, named for what they run on. [VSEDSK](#vsedsk-desktop) is software for Windows and macOS computers, some of it free, and is where most new development happens. [VSERPI](#vserpi-raspberry-pi) is a set of standalone, standard definition instruments for the Raspberry Pi, which you can buy or build yourself. [VSEJET](#vsejet-jetson-nano) is a smaller set of HD instruments for the Nvidia Jetson Nano, which you can build yourself or sometimes buy in a limited run. Several instruments exist in more than one family, so the same name can refer to different versions.
 
-| Family | Runs on | What to expect |
-|---|---|---|
-| [VSEDSK](#vsedsk-desktop) | Windows or macOS computer | Software to download, free and paid. Most new development happens here |
-| [VSERPI](#vserpi-raspberry-pi) | Raspberry Pi 3B or 3B+ | Standalone units in standard definition. Buy one or build your own |
-| [VSEJET](#vsejet-jetson-nano) | Nvidia Jetson Nano 4GB | Standalone units in HD. Build your own, or buy one in an occasional limited run |
-
-This page lists every instrument with its official pages, manual, source code, and videos. Open **Videos** under an instrument to see its list. The repo also holds [community notes](#community-notes-in-this-repo) on hardware, MIDI control, and troubleshooting.
+Documentation for the instruments is spread across two official websites, GitHub, and Andrei's YouTube channel. This page brings it together: each instrument has a description, links to its info page, manual, and source code where they exist, and a collapsed list of its videos. The repo also holds [community notes](#community-notes-in-this-repo) on hardware, MIDI control, and troubleshooting.
 
 ## Where to start
+If you are new to these instruments, the free desktop software is the easiest way to try one. Otherwise, start from what you want to do:
+
 - **Try one for free:** install [Waaave Pool DSK Pro Free](#waaave-pool-dsk-pro-wpdsk-pro) or [Waaave Pool DSK](#waaave-pool-dsk-wpdsk) on your computer.
 - **Choose an instrument:** use the [table below](#find-an-instrument) to compare them by what they do.
 - **Set up a unit you own:** go to its family, [VSERPI](#vserpi-raspberry-pi) or [VSEJET](#vsejet-jetson-nano), then to the instrument's manual and videos.
@@ -21,6 +17,7 @@ This page lists every instrument with its official pages, manual, source code, a
 - **Follow or support Andrei:** see [Andrei Jay](#andrei-jay).
 
 ## Find an instrument
+Instruments in the same row do the same kind of thing on different hardware. Each name links to its section below.
 
 | What it does | VSEDSK (desktop) | VSERPI (Raspberry Pi) | VSEJET (Jetson Nano) |
 |---|---|---|---|
@@ -47,6 +44,7 @@ Check the [official FAQ](https://videosynthesisecosphere.com/faq) first.
 - **DIY or secondhand units:** ask the community on [Discord](https://discord.gg/jarb32Aymg) or [scanlines.xyz](https://scanlines.xyz/c/vse/21).
 
 ## Community notes in this repo
+Alongside this page, the repo collects hardware notes, MIDI notes, controller overlays, manuals, and files copied from the SD card images.
 - [VSEDSK](/VSEDSK): names, versions, and a comparison of the WPDSK Pro versions
 - [GWDSK](/GWDSK): media folders and virtual cameras for GWDSK and WPDSK
 - [VSERPI](/VSERPI): Raspberry Pi hardware, including a fix for newer boards that won't boot
@@ -56,7 +54,7 @@ Check the [official FAQ](https://videosynthesisecosphere.com/faq) first.
 - [Manuals](/manuals): PDF copies for GRAVITY_WAAAVES and WAAAVE_POOL_HD
 
 ## VSEDSK (desktop)
-Video Synthesis Ecosphere Desktop: software for Windows and macOS. On older pages, VSEDSK means [VIDEO_WAAAVES](#video_waaaves-legacy). [Compare names and versions](/VSEDSK).
+The Video Synthesis Ecosphere Desktop is software for Windows and macOS. The current instruments are Waaave Pool DSK Pro, Gravity Waaaves DSK, and Waaave Pool DSK. On older pages, VSEDSK means [VIDEO_WAAAVES](#video_waaaves-legacy), the open source suite that came before them. The [VSEDSK page](/VSEDSK) explains the names and compares versions.
 - [VSEDSK website](https://videosynthesisecosphere.com/vsedsk)
 - [Downloads and manuals](https://videosynthesisecosphere.com/downloads)
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLTAAQQpCNd6TWnhnUpDyA_kKPMMIZ9qA-)
@@ -173,9 +171,9 @@ The original open source desktop suite, also called VSEDSKP. You build it from s
 </details>
 
 ## VSERPI (Raspberry Pi)
-Video Synthesis Ecosphere Raspberry Pi: standalone video instruments that run on a Raspberry Pi 3B or 3B+. You control them with a USB MIDI controller and send video in over USB. They output composite video (NTSC or PAL), or HDMI at 720x480. People often call the units Waaave Pools, whichever instrument they run.
+The Video Synthesis Ecosphere Raspberry Pi is a set of standalone video instruments that run on a Raspberry Pi 3B or 3B+. You control them with a USB MIDI controller and send video in over USB. They output composite video (NTSC or PAL), or HDMI at 720x480. People often call the units Waaave Pools, whichever instrument they run.
 
-Each instrument is an SD card image, and swapping cards changes the instrument. Some images include several instruments. AUTO_WAAAVE, AUTO_MESH, and PHOSPHORM also need an audio add-on, listed on the DIY hardware page.
+The instruments are distributed as image files that you write to an SD card, and swapping cards changes the instrument. Some images include several instruments. AUTO_WAAAVE, AUTO_MESH, and PHOSPHORM also need an audio add-on, listed on the DIY hardware page.
 - [VSERPI website](https://videosynthesisecosphere.com/vserpi)
 - [Buy](https://shop.videosynthesisecosphere.com/collections/vserpi)
 - [Quickstart guide](https://andreijaycreativecoding.com/VSERPI-QUICKSTART-GUIDE)
@@ -475,7 +473,7 @@ Slitscan processor: different parts of the picture show different moments in tim
 </details>
 
 ## VSEJET (Jetson Nano)
-Video Synthesis Ecosphere Jetson Nano: standalone HD video instruments that run on the Nvidia Jetson Nano 4GB with an SD card slot (not the eMMC version). Andrei now sells them only in occasional limited runs, but you can build your own.
+The Video Synthesis Ecosphere Jetson Nano is a set of standalone HD video instruments that run on the Nvidia Jetson Nano 4GB with an SD card slot (not the eMMC version). Andrei now sells them only in occasional limited runs, but you can build your own.
 
 There are two SD card images, GRAVITY_WAAAVES and WAAAVE_POOL_HD. Each includes other instruments that you pick with its master boot options.
 - [VSEJET website](https://videosynthesisecosphere.com/vsejet)
@@ -614,6 +612,7 @@ Andrei's videos on video feedback techniques, video mixers, analog signals, and 
 </details>
 
 ## Andrei Jay
+Andrei designs, builds, and documents these instruments, and publishes the source code for many of them. You can support that work through Patreon or Ko-fi.
 
 ### Websites
 - [VideoSynthesisEcosphere.com](https://videosynthesisecosphere.com/)
