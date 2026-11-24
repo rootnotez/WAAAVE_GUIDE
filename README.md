@@ -171,13 +171,18 @@ The original open source desktop suite, also called VSEDSKP. You build it from s
 
 </details>
 
-## VSERPI (Video Synthesis Ecosphere Raspberry Pi)
-These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. The software is distributed as ISO files that you burn to an sd-card. Some of the ISO's have multiple programs available on them.
-- [Video Synthesis Ecosphere Raspberry Pi](https://andreijaycreativecoding.com/Video-Synthesis-Ecosphere-RPI)
-- [Video Synthesis Ecosphere Raspberry Pi Manuals](https://andreijaycreativecoding.com/all-the-manuals)
-- [VSERPI Quickstart Guide](https://andreijaycreativecoding.com/VSERPI-QUICKSTART-GUIDE)
-- [DIY Hardware List and ISO Images](https://andreijaycreativecoding.com/VSERPI-hardware-and-images)
-- [Midi Controller Overlays](/midi-controller-overlays)
+## VSERPI (Raspberry Pi)
+Video Synthesis Ecosphere Raspberry Pi: standalone video instruments that run on a Raspberry Pi 3B or 3B+. You control them with a USB MIDI controller and send video in over USB. They output composite video (NTSC or PAL), or HDMI at 720x480. People often call the units Waaave Pools, whichever instrument they run.
+
+Each instrument is an SD card image, and swapping cards changes the instrument. Some images include several instruments. AUTO_WAAAVE, AUTO_MESH, and PHOSPHORM also need an audio add-on, listed on the DIY hardware page.
+- [VSERPI website](https://videosynthesisecosphere.com/vserpi)
+- [Buy](https://shop.videosynthesisecosphere.com/collections/vserpi)
+- [Quickstart guide](https://andreijaycreativecoding.com/VSERPI-QUICKSTART-GUIDE)
+- [Manuals](https://andreijaycreativecoding.com/all-the-manuals)
+- [DIY hardware list and SD card images](https://andreijaycreativecoding.com/VSERPI-hardware-and-images)
+- [MIDI controller overlays](/midi-controller-overlays)
+- [Raspberry Pi hardware notes](/VSERPI)
+- [Info (old site)](https://andreijaycreativecoding.com/Video-Synthesis-Ecosphere-RPI)
 
 <details>
 <summary>Videos (7)</summary>
@@ -199,9 +204,11 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 </details>
 
 ### WAAAVE_POOL
-- [GitHub - WAAAVE_POOL](https://github.com/ex-zee-ex/waaaave_pool)
-- [WAAAVE_POOL](https://andreijaycreativecoding.com/WAAAVE_POOL)
-- [WAAAVE_POOL Manual](https://andreijaycreativecoding.com/Waaave_Pool-manual)
+Video delay of up to 2 seconds that processes incoming video or feeds back on itself. Works with no video input.
+- [Info](https://videosynthesisecosphere.com/waaave-pool)
+- [Info (old site)](https://andreijaycreativecoding.com/WAAAVE_POOL)
+- [Manual](https://andreijaycreativecoding.com/Waaave_Pool-manual)
+- [Source code](https://github.com/ex-zee-ex/waaaave_pool)
 
 <details>
 <summary>Videos (25)</summary>
@@ -243,10 +250,12 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 </details>
 
 ### ARTIFICIAL_LIFE
-- [Github - ARTIFICIAL_LIFE 1.4](https://github.com/ex-zee-ex/artificial_life)
-- [Github - ARTIFICIAL_LIFE 1.1](https://github.com/ex-zee-ex/artificial_life_1.1)
-- [ARTIFICIAL_LIFE](https://andreijaycreativecoding.com/ARTIFICIAL_LIFE)
-- [ARTIFICIAL_LIFE Manual](https://andreijaycreativecoding.com/Artificial-Life-Manual)
+Four video oscillators linked in feedback loops that make chaotic, lifelike patterns. Works with no video input.
+- [Info](https://videosynthesisecosphere.com/artificial-life)
+- [Info (old site)](https://andreijaycreativecoding.com/ARTIFICIAL_LIFE)
+- [Manual](https://andreijaycreativecoding.com/Artificial-Life-Manual)
+- [Source code 1.4](https://github.com/ex-zee-ex/artificial_life)
+- [Source code 1.1](https://github.com/ex-zee-ex/artificial_life_1.1)
 
 <details>
 <summary>Videos (12)</summary>
@@ -274,10 +283,12 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 </details>
 
 ### AUTO_WAAAVE
-- [GitHub - AUTO_WAAAVES](https://github.com/ex-zee-ex/auto_waaave)
-- [AUTO_WAAAVE Quickstart Visual Guide](https://andreijaycreativecoding.com/auto-waaave-quickstart-pics)
-- [AUTO_WAAAVE](https://andreijaycreativecoding.com/AUTO_WAAAVE)
-- [AUTO_WAAAVE Manual](https://andreijaycreativecoding.com/AUTO-WAAAVE-MANUAL)
+Audio reactive WAAAVE_POOL. Low, mid, and high frequencies can each control any parameter. Needs the audio add-on. Works with no video input.
+- [Info](https://videosynthesisecosphere.com/auto-waaave)
+- [Info (old site)](https://andreijaycreativecoding.com/AUTO_WAAAVE)
+- [Quickstart visual guide](https://andreijaycreativecoding.com/auto-waaave-quickstart-pics)
+- [Manual](https://andreijaycreativecoding.com/AUTO-WAAAVE-MANUAL)
+- [Source code](https://github.com/ex-zee-ex/auto_waaave)
 
 <details>
 <summary>Videos (4)</summary>
@@ -297,8 +308,10 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 </details>
 
 ### AUTO_MESH
-- [Github - AUTO_MESH](https://github.com/ex-zee-ex/auto_mesh)
-- [AUTO_MESH Manual](https://andreijaycreativecoding.com/AUTO-MESH-MANUAL)
+Audio reactive SPECTRAL_MESH. Needs the audio add-on.
+- [Info](https://videosynthesisecosphere.com/auto-mesh)
+- [Manual](https://andreijaycreativecoding.com/AUTO-MESH-MANUAL) (read the SPECTRAL_MESH manual first)
+- [Source code](https://github.com/ex-zee-ex/auto_mesh)
 
 <details>
 <summary>Videos (1)</summary>
@@ -309,9 +322,11 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 
 </details>
 
-### CHROMATIC_ABBERATION
-- [Github - CHROMATIC_ABBERATION](https://github.com/ex-zee-ex/CHROMATIC_ABERRATION1_the_search_for_sasquatch)
-- [CHROMATIC_ABBERATION Manual](https://andreijaycreativecoding.com/CHROMATIC-ABERRATION-MANUAL)
+### CHROMATIC_ABERRATION
+Colorizer and solarizer with 8 brightness bands. Its full name is Chromatic Aberration: The Search for Sasquatch.
+- [Info](https://videosynthesisecosphere.com/chromatic-aberration)
+- [Manual](https://andreijaycreativecoding.com/CHROMATIC-ABERRATION-MANUAL)
+- [Source code](https://github.com/ex-zee-ex/CHROMATIC_ABERRATION1_the_search_for_sasquatch)
 
 <details>
 <summary>Videos (5)</summary>
@@ -329,9 +344,10 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 
 </details>
 
-### CONVOLUTIONAL CHAOS
-- [GITHUB - CONVOLUTIONAL CHAOS](https://github.com/ex-zee-ex/convolutional_chaos)
-- [CONVOLUTIONAL CHAOS MANUAL](https://andreijaycreativecoding.com/CONVOLUTIONAL-CHAOS-MANUAL)
+### CONVOLUTIONAL_CHAOS
+Video feedback made with a convolution kernel. You set the weight and distance of each part of it.
+- [Manual](https://andreijaycreativecoding.com/CONVOLUTIONAL-CHAOS-MANUAL)
+- [Source code](https://github.com/ex-zee-ex/convolutional_chaos)
 
 <details>
 <summary>Videos (1)</summary>
@@ -342,9 +358,10 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 
 </details>
 
-### GENERIC GEOMETRICAL UTILITY
-- [Github - GENERIC GEOMETRICAL UTILITY](https://github.com/ex-zee-ex/GENERIC_GEOMETRY_UTILITY)
-- [GENERIC GEOMETRICAL UTILITY Manual](https://andreijaycreativecoding.com/GENERIC-GRAPHICS-UTILITY-MANUAL)
+### GENERIC_GEOMETRY_UTILITY
+Geometric effects for incoming video, such as stretch, shear, and spiral.
+- [Manual](https://andreijaycreativecoding.com/GENERIC-GRAPHICS-UTILITY-MANUAL)
+- [Source code](https://github.com/ex-zee-ex/GENERIC_GEOMETRY_UTILITY)
 
 <details>
 <summary>Videos (1)</summary>
@@ -356,8 +373,9 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 </details>
 
 ### HELLO_WORD
-- [Github - HELLO_WORD](https://github.com/ex-zee-ex/HELLO_WORD)
-- [HELLO_WORD Manual](https://andreijaycreativecoding.com/HELLO-WORD-MANUAL)
+Type text on a USB keyboard and key it into other video. Takes no video input.
+- [Manual](https://andreijaycreativecoding.com/HELLO-WORD-MANUAL)
+- [Source code](https://github.com/ex-zee-ex/HELLO_WORD)
 
 <details>
 <summary>Videos (1)</summary>
@@ -369,9 +387,11 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 </details>
 
 ### PHOSPHORM
-- [GitHub - PHOSPHORM](https://github.com/ex-zee-ex/phosphorm)
-- [PHOSPHORM](https://andreijaycreativecoding.com/PHOSPHORM)
-- [PHOSPHORM Manual](https://andreijaycreativecoding.com/Phosphorm-Manual)
+Twelve oscillators that make sound and picture together, for speakers, X-Y displays, lasers, and video. Needs the audio add-on. Works with no video input.
+- [Info](https://videosynthesisecosphere.com/phosphorm)
+- [Info (old site)](https://andreijaycreativecoding.com/PHOSPHORM)
+- [Manual](https://andreijaycreativecoding.com/Phosphorm-Manual)
+- [Source code](https://github.com/ex-zee-ex/phosphorm)
 
 <details>
 <summary>Videos (2)</summary>
@@ -386,7 +406,8 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 </details>
 
 ### SUPER_HAECKEL_ADVENTURES_64
-- [Github - SUPER_HAECKEL_ADVENTURES_64](https://github.com/ex-zee-ex/SUPER_HAECKEL_ADVENTURES_64)
+Video synthesizer that draws shapes with the superformula, inspired by Ernst Haeckel. Needs a MIDI controller set up for WAAAVE_POOL or SPECTRAL_MESH.
+- [Info and source code](https://github.com/ex-zee-ex/SUPER_HAECKEL_ADVENTURES_64)
 
 <details>
 <summary>Videos (4)</summary>
@@ -401,9 +422,11 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 </details>
 
 ### SPECTRAL_MESH
-- [GitHub - SPECTRAL_MESH](https://github.com/ex-zee-ex/spectral_mesh)
-- [SPECTRAL_MESH](https://andreijaycreativecoding.com/SPECTRAL_MESH)
-- [SPECTRAL_MESH Manual](https://andreijaycreativecoding.com/Spectral-Mesh-Manual)
+Digital scan processor. Three video oscillators warp incoming video as a mesh, grid, or set of lines.
+- [Info](https://videosynthesisecosphere.com/spectral-mesh)
+- [Info (old site)](https://andreijaycreativecoding.com/SPECTRAL_MESH)
+- [Manual](https://andreijaycreativecoding.com/Spectral-Mesh-Manual)
+- [Source code](https://github.com/ex-zee-ex/spectral_mesh)
 
 <details>
 <summary>Videos (9)</summary>
@@ -428,8 +451,10 @@ These are run on Raspberry Pi 3B+, often these are referred to as WAAAVE_POOL. T
 </details>
 
 ### TEMPORAL_VORTEX
-- [GITHUB - TEMPORAL_VORTEX](https://github.com/ex-zee-ex/temporal_vortex)
-- [TEMPORAL_VORTEX](https://andreijaycreativecoding.com/TEMPORAL-VORTEX-manual)
+Slitscan processor: different parts of the picture show different moments in time. Two video oscillators control the effect.
+- [Info](https://videosynthesisecosphere.com/temporal-vortex)
+- [Manual](https://andreijaycreativecoding.com/TEMPORAL-VORTEX-manual)
+- [Source code](https://github.com/ex-zee-ex/temporal_vortex)
 
 <details>
 <summary>Videos (6)</summary>
