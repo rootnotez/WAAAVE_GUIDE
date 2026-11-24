@@ -27,15 +27,16 @@ Each instrument has its links, followed by a collapsed list of videos.
 - [TikTok](https://www.tiktok.com/@andrei_jay)
 
 ## VSEDSK (Video Synthesis Ecosphere Desktop)
-VSEDSK is the umbrella name for the desktop (Windows and macOS) instruments. It currently has three: Waaave Pool DSK Pro, Gravity Waaaves DSK, and Waaave Pool DSK. Versions, system notes, and an explanation of the names are in [VSEDSK](/VSEDSK). The older VIDEO_WAAAVES suite also used this name and is now legacy.
+Software for Windows and macOS.
+- [Names and versions](/VSEDSK)
 - [VSEDSK](https://videosynthesisecosphere.com/vsedsk)
 - [Downloads and Manuals](https://videosynthesisecosphere.com/downloads)
 - [FAQ](https://videosynthesisecosphere.com/faq)
 - [Support](https://videosynthesisecosphere.com/support)
-- [YouTube playlist - Video Synthesis Ecosphere DSK](https://www.youtube.com/playlist?list=PLTAAQQpCNd6TWnhnUpDyA_kKPMMIZ9qA-)
+- [YouTube playlist](https://www.youtube.com/playlist?list=PLTAAQQpCNd6TWnhnUpDyA_kKPMMIZ9qA-)
 
 ### WAAAVE POOL DSK PRO (WPDSK Pro)
-Semi-modular video synthesizer with a new engine, based on the core signal flow of Waaave Pool. Comes in Free, Basic, and Advanced versions.
+Semi-modular video synthesizer based on Waaave Pool, with a new engine. Free, Basic, and Advanced versions.
 - [WAAAVE POOL DSK PRO](https://videosynthesisecosphere.com/waaave-pool-dsk-pro)
 - [WAAAVE POOL DSK PRO Kickstarter](https://www.kickstarter.com/projects/andreijay/waaave-pool-dsk-pro)
 
@@ -53,7 +54,7 @@ Semi-modular video synthesizer with a new engine, based on the core signal flow 
 </details>
 
 ### GRAVITY WAAAVES DSK (GWDSK)
-Paid software. Desktop port of the VSEJET GRAVITY_WAAAVES, expanded with media players and presets. Kickstarter fulfilled July 2025
+Paid desktop port of the VSEJET GRAVITY_WAAAVES, with added media players and presets.
 - [GRAVITY WAAAVES DSK](https://videosynthesisecosphere.com/gravity-waaaves-dsk)
 - [Buy GRAVITY WAAAVES DSK @ VideoSynthesisEcosphere.com](https://shop.videosynthesisecosphere.com/products/gravity-waaaves-dsk)
 - [GRAVITY WAAAVES DSK (old site)](https://andreijaycreativecoding.com/GRAVITY_WAAAVES-DSK)
@@ -79,7 +80,7 @@ Paid software. Desktop port of the VSEJET GRAVITY_WAAAVES, expanded with media p
 </details>
 
 ### WAAAVE POOL DSK (WPDSK)
-Free desktop port of the VSERPI WAAAVE_POOL
+Free desktop port of the VSERPI WAAAVE_POOL.
 - [WAAAVE POOL DSK](https://videosynthesisecosphere.com/waaave-pool-dsk)
 
 <details>
@@ -95,8 +96,8 @@ Free desktop port of the VSERPI WAAAVE_POOL
 
 </details>
 
-### VIDEO_WAAAVES (legacy VSEDSK / VSEDSKP)
-The original open source desktop software. It is built from source with openFrameworks, and is no longer actively maintained.
+### VIDEO_WAAAVES (legacy)
+The original open source desktop suite, built from source with openFrameworks.
 - [VSEDSKP](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP)
 - [VSEDSKP - Legacy](https://andreijaycreativecoding.com/video-synthesis-ecosphere-DSKP-legacy)
 - [VSEDSKP - Getting Started](https://andreijaycreativecoding.com/VIDEO-WAAAVES-GETTING-STARTED)
