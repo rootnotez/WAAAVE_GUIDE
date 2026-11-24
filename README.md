@@ -10,7 +10,7 @@ Notes on Waave_Pool, Gravity_Waaaves, Video Synthesis Ecosphere for Raspberry Pi
   - [Instagram - @andrei_jay_video_wizard](https://www.instagram.com/andrei_jay_video_wizard/)
   - [Ko-fi - andreijay](https://ko-fi.com/andreijay)
   - [Mastodon - @andrei_jay](https://autonomous.zone/@andrei_jay)
-  - [Patreon - c/andrei-jay](https://www.patreon.com/c/andrei-jay)
+  - [Patreon - c/andrei_jay](https://www.patreon.com/c/andrei_jay)
   - [TikTok - @andrei_jay](https://www.tiktok.com/@andrei_jay)
   - [YouTube - @andreijay](https://www.youtube.com/@andreijay)
  
